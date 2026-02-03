@@ -225,6 +225,8 @@ class CategoryManager:
             return json.dumps([], indent=2)
         elif format.lower() == "csv":
             return ""
+        else:
+            return ""
 
     async def _get_or_create_uncategorized(self) -> int:
         """获取或创建"未分类"类别"""
