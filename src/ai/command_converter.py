@@ -72,7 +72,7 @@ class AICommandConverter:
 
         # 如果基于类别的转换失败，尝试通用模式匹配
         for pattern, handler in self.command_patterns.items():
-            if re.match(pattern, natural_language):
+            if re.search(pattern, natural_language, re.IGNORECASE):
                 return handler(natural_language)
 
         # 如果都没有匹配，尝试更通用的方法
@@ -165,24 +165,24 @@ class AICommandConverter:
     async def _convert_generic(self, natural_language: str) -> Optional[ParsedCommand]:
         """通用命令转换"""
         # 尝试提取一些常见的自然语言模式
-        if "查看当前目录" in natural_language:
-            return ParsedCommand("pwd", "显示当前工作目录", 0.9)
-        elif "显示当前目录内容" in natural_language or "列出文件" in natural_language:
+        if "查看当前目录" in natural_language or "显示当前目录内容" in natural_language or "列出文件" in natural_language or "当前目录的文件" in natural_language:
             return ParsedCommand("ls -la", "列出当前目录的所有文件和详细信息", 0.9)
         elif "查看当前用户" in natural_language:
             return ParsedCommand("whoami", "显示当前登录的用户名", 0.95)
         elif "查看系统时间" in natural_language:
             return ParsedCommand("date", "显示系统当前时间和日期", 0.95)
-        elif "查看系统负载" in natural_language:
+        elif "查看系统负载" in natural_language or "系统负载" in natural_language:
             return ParsedCommand("uptime", "显示系统运行时间及平均负载", 0.85)
-        elif "查看磁盘使用情况" in natural_language:
+        elif "查看磁盘使用情况" in natural_language or "磁盘空间" in natural_language:
             return ParsedCommand("df -h", "显示磁盘使用情况", 0.9)
-        elif "查看内存使用" in natural_language:
+        elif "查看内存使用" in natural_language or "系统内存" in natural_language:
             return ParsedCommand("free -m", "显示内存使用情况（MB单位）", 0.85)
-        elif "查看进程" in natural_language:
+        elif "查看进程" in natural_language or "列出进程" in natural_language:
             return ParsedCommand("ps aux", "显示所有运行的进程", 0.8)
         elif "查找文件" in natural_language:
             return ParsedCommand("find . -type f", "在当前目录递归查找所有文件", 0.75)
+        elif "网络连接状态" in natural_language or "网络状态" in natural_language:
+            return ParsedCommand("netstat -tulpn", "显示TCP/UDP监听端口及对应的进程", 0.8)
 
         # 如果以上都不匹配，尝试更简单的方式
         return None
