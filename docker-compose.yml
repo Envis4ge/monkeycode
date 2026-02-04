@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  smartterm:
+    build: .
+    container_name: smartterm-webui
+    ports:
+      - "8000:8000"
+    volumes:
+      - smartterm-data:/root/.smart_term  # 持久化配置数据
+    environment:
+      - PYTHONPATH=/app
+      - LOG_LEVEL=info
+    restart: unless-stopped
+
+volumes:
+  smartterm-data:
