@@ -16,6 +16,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), '.'))
 from src.remote import ConnectionManager, SessionManager, CategoryManager
 from src.remote.command_history import InteractiveCommandInput
 from src.models.remote import RemoteConnectionConfig, AuthType, ConnectionProtocol
+from src.ai.command_converter import convert_natural_language_to_command
 
 
 class SmartTermCLI:
@@ -44,6 +45,8 @@ class SmartTermCLI:
             await self.handle_session_command(args)
         elif args.command == "shell":
             await self.handle_shell_mode()
+        elif args.command == "ai":
+            await self.handle_ai_mode(args)
         else:
             print("未知命令，请使用 --help 查看帮助")
 
@@ -233,6 +236,86 @@ class SmartTermCLI:
             await self.connection_manager.disconnect()
 
 
+    async def handle_ai_mode(self, args):
+        """处理AI驱动的交互模式"""
+        session = self.connection_manager.get_active_session()
+        if not session:
+            print("❌ 没有活动的连接会话，请先使用 connect 命令连接")
+            return
+
+        print(f"进入AI交互模式 - {session.host}:{session.port}")
+        print("在此模式下，您可以使用自然语言描述您想要执行的操作")
+        print("输入 'exit' 或 'quit' 退出AI模式")
+        print("-" * 50)
+
+        # 获取当前会话的设备类别（如果有的话）
+        category_id = session.config_id  # 使用配置ID关联设备类别
+        category = await self.category_manager.get_category_by_id(category_id % 10)  # 简单映射
+
+        try:
+            while True:
+                try:
+                    # 显示AI模式提示符
+                    prompt = f"[AI@{session.username}@{session.host}:{session.port}]> "
+                    natural_command = input(prompt)
+
+                    if natural_command.lower() in ['exit', 'quit', 'logout']:
+                        print("退出AI模式...")
+                        await self.connection_manager.disconnect()
+                        break
+
+                    if natural_command.strip() == "":
+                        continue
+
+                    print(f"🧠 正在分析您的请求: {natural_command}")
+
+                    # 使用AI转换器将自然语言转换为命令
+                    parsed_cmd = await convert_natural_language_to_command(natural_command, category)
+
+                    if parsed_cmd:
+                        print(f"📋 转换为命令: {parsed_cmd.command}")
+                        print(f"💡 说明: {parsed_cmd.explanation}")
+                        print(f"🔍 置信度: {parsed_cmd.confidence:.2f}")
+
+                        # 确认执行
+                        confirm = input(f"✅ 是否执行此命令? [Y/n]: ").lower()
+                        if confirm in ['', 'y', 'yes']:
+                            # 执行转换后的命令
+                            import time
+                            start_time = time.time()
+                            exit_code, output = await self.connection_manager.execute_command(parsed_cmd.command)
+                            duration = time.time() - start_time
+
+                            print(output)
+                            print(f"[退出码: {exit_code}, 耗时: {duration:.2f}s]")
+
+                            # 添加到历史记录
+                            await self.session_manager.add_command_to_session(
+                                session_id=session.id,
+                                command=parsed_cmd.command,
+                                mode=self.connection_manager.get_active_session().current_mode,
+                                output=output,
+                                exit_code=exit_code,
+                                duration=duration
+                            )
+                        else:
+                            print("❌ 命令已取消")
+                    else:
+                        print(f"❌ 无法理解您的请求: {natural_command}")
+                        print("💡 请尝试使用更清晰的自然语言描述您的意图")
+
+                except KeyboardInterrupt:
+                    print("\n使用 'exit' 命令退出AI模式")
+                    continue
+                except EOFError:
+                    print("\n退出AI模式...")
+                    await self.connection_manager.disconnect()
+                    break
+        except Exception as e:
+            print(f"AI模式错误: {e}")
+            await self.connection_manager.disconnect()
+
+
 def create_parser():
     """创建命令行参数解析器"""
     parser = argparse.ArgumentParser(description='SmartTerm - 智能终端增强工具')
@@ -274,6 +357,9 @@ def create_parser():
 
     # Shell模式
     shell_parser = subparsers.add_parser('shell', help='进入交互式shell模式')
+
+    # AI模式
+    ai_parser = subparsers.add_parser('ai', help='进入AI驱动的交互模式')
 
     return parser
 
