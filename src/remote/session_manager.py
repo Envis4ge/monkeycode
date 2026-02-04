@@ -8,6 +8,7 @@ from typing import Optional, List
 from datetime import datetime
 
 from ..models.remote import ConnectionSession, SessionCommand, SessionStatus, ExecutionMode
+from .command_history_db import CommandHistoryDatabase
 
 
 logger = logging.getLogger(__name__)
@@ -20,6 +21,7 @@ class SessionManager:
         self._sessions: dict[str, ConnectionSession] = {}
         self._session_commands: dict[str, List[SessionCommand]] = {}
         self._command_counter = 0
+        self.history_db = CommandHistoryDatabase()
 
     async def create_session(self, connection, config_id: int) -> ConnectionSession:
         """创建新会话
@@ -80,7 +82,8 @@ class SessionManager:
         command: str,
         mode: ExecutionMode,
         output: Optional[str] = None,
-        exit_code: Optional[int] = None
+        exit_code: Optional[int] = None,
+        duration: float = 0.0
     ) -> None:
         """添加命令到会话历史
 
@@ -90,6 +93,7 @@ class SessionManager:
             mode: 执行模式
             output: 输出结果
             exit_code: 退出码
+            duration: 执行时长
         """
         session = self._sessions.get(session_id)
         if not session:
@@ -102,7 +106,8 @@ class SessionManager:
             command=command,
             mode=mode,
             output=output,
-            exit_code=exit_code
+            exit_code=exit_code,
+            duration=duration
         )
         self._command_counter += 1
 
@@ -110,6 +115,16 @@ class SessionManager:
         session.commands_count += 1
 
         logger.debug(f"Added command to session {session_id}: {command}")
+
+        # 同时保存到数据库
+        try:
+            await self.history_db.add_command(
+                session_cmd,
+                remote_host=session.host,
+                remote_port=session.port
+            )
+        except Exception as e:
+            logger.error(f"Failed to save command to history database: {e}")
 
     async def get_session_history(
         self,
@@ -125,8 +140,46 @@ class SessionManager:
         Returns:
             会话命令列表
         """
+        # 先从内存获取
         commands = self._session_commands.get(session_id, [])
+
+        # 如果不够，从数据库获取更多
+        if len(commands) < limit:
+            db_commands = await self.history_db.get_commands_by_session(session_id, limit)
+            # 合并内存和数据库中的命令，去重并按时间排序
+            all_commands = {cmd.id: cmd for cmd in db_commands}
+            for cmd in commands:
+                all_commands[cmd.id] = cmd
+
+            # 按时间戳排序
+            commands = sorted(all_commands.values(), key=lambda x: x.timestamp, reverse=True)
+            commands = commands[:limit]
+
         return commands[-limit:] if limit > 0 else commands
+
+    async def get_recent_commands(self, limit: int = 50, remote_host: str = None) -> List[SessionCommand]:
+        """获取最近的命令
+
+        Args:
+            limit: 返回数量限制
+            remote_host: 远程主机（可选）
+
+        Returns:
+            最近的命令列表
+        """
+        return await self.history_db.get_recent_commands(limit, remote_host)
+
+    async def search_commands(self, query: str, limit: int = 50) -> List[SessionCommand]:
+        """搜索命令
+
+        Args:
+            query: 搜索关键词
+            limit: 返回数量限制
+
+        Returns:
+            搜索结果
+        """
+        return await self.history_db.search_commands(query, limit)
 
     async def get_active_sessions(self) -> List[ConnectionSession]:
         """获取所有活动会话"""

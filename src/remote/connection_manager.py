@@ -16,6 +16,7 @@ from ..models.remote import (
 )
 from .telnet_client import TelnetClient
 from .ssh_client import SSHClient
+from .db import RemoteConfigDatabase
 
 
 logger = logging.getLogger(__name__)
@@ -27,6 +28,7 @@ class ConnectionManager:
     def __init__(self):
         self._active_session: Optional[ConnectionSession] = None
         self._client: Optional[TelnetClient | SSHClient] = None
+        self.config_db = RemoteConfigDatabase()
 
     async def connect(
         self,
@@ -76,6 +78,12 @@ class ConnectionManager:
         except Exception as e:
             logger.error(f"Connection failed: {e}")
             raise ConnectionError(f"Failed to connect: {e}")
+
+        # 更新最后连接时间
+        try:
+            await self.config_db.update_last_connected(config.id)
+        except Exception as e:
+            logger.warning(f"Could not update last connected time: {e}")
 
         # 创建会话
         session = ConnectionSession(
@@ -171,14 +179,28 @@ class ConnectionManager:
     async def save_config(self, config: RemoteConnectionConfig) -> None:
         """保存连接配置"""
         logger.info(f"Saving connection config: {config.name}")
-        # TODO: 实现配置保存到数据库
+        await self.config_db.save_config(config)
+
+    async def update_config(self, config: RemoteConnectionConfig) -> None:
+        """更新连接配置"""
+        logger.info(f"Updating connection config: {config.name}")
+        await self.config_db.update_config(config)
 
     async def list_saved_configs(self) -> List[RemoteConnectionConfig]:
         """列出所有已保存的连接配置"""
-        # TODO: 从数据库加载配置
-        return []
+        configs = await self.config_db.list_configs()
+        logger.info(f"Retrieved {len(configs)} saved connection configs")
+        return configs
+
+    async def get_config_by_id(self, config_id: int) -> Optional[RemoteConnectionConfig]:
+        """根据ID获取连接配置"""
+        return await self.config_db.get_config(config_id)
+
+    async def get_config_by_name(self, name: str) -> Optional[RemoteConnectionConfig]:
+        """根据名称获取连接配置"""
+        return await self.config_db.get_config_by_name(name)
 
     async def delete_config(self, config_id: int) -> None:
         """删除连接配置"""
         logger.info(f"Deleting connection config: {config_id}")
-        # TODO: 从数据库删除配置
+        await self.config_db.delete_config(config_id)
