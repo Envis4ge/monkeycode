@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  smartterm-webui:
+    build:
+      context: .
+      dockerfile: Dockerfile.full
+    container_name: smartterm-complete
+    ports:
+      - "8000:8000"
+    volumes:
+      - smartterm-data:/root/.smart_term  # 持久化配置数据
+    environment:
+      - PYTHONPATH=/app
+      - LOG_LEVEL=info
+    restart: unless-stopped
+    # 添加健康检查
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+volumes:
+  smartterm-data:
