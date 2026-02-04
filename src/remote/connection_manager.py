@@ -17,6 +17,7 @@ from ..models.remote import (
 from .telnet_client import TelnetClient
 from .ssh_client import SSHClient
 from .db import RemoteConfigDatabase
+from .security_manager import SecurityManager
 
 
 logger = logging.getLogger(__name__)
@@ -29,6 +30,7 @@ class ConnectionManager:
         self._active_session: Optional[ConnectionSession] = None
         self._client: Optional[TelnetClient | SSHClient] = None
         self.config_db = RemoteConfigDatabase()
+        self.security_manager = SecurityManager()
 
     async def connect(
         self,
@@ -63,6 +65,13 @@ class ConnectionManager:
                 config.protocol = ConnectionProtocol.TELNET
             else:
                 config.protocol = ConnectionProtocol.SSH
+
+        # 执行安全检查
+        security_issues = await self.security_manager.detect_security_issues(config)
+        for issue in security_issues:
+            logger.warning(f"Security issue [{issue.severity}]: {issue.message} - {issue.suggestion}")
+            print(f"⚠️  安全警告 [{issue.severity}]: {issue.message}")
+            print(f"💡 建议: {issue.suggestion}")
 
         logger.info(f"Connecting to {config.host}:{config.port} using {config.protocol.value}")
 

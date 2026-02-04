@@ -110,7 +110,7 @@ class SecurityManager:
         issues = []
 
         # 检测 Telnet 的安全问题
-        if config.port == 23:
+        if config.port == 23 or (config.protocol and config.protocol.value == "telnet"):
             issues.append(SecurityIssue(
                 type="telnet_insecure",
                 severity="high",
@@ -133,7 +133,45 @@ class SecurityManager:
                 type="weak_password",
                 severity="medium",
                 message="密码长度不足 8 位",
-                suggestion="建议使用至少 8 位的强密码"
+                suggestion="建议使用至少 8 位的强密码，最好包含大小写字母、数字和特殊字符"
+            ))
+
+        # 检测默认或常见用户名
+        common_usernames = ['admin', 'root', 'user', 'guest', 'test']
+        if config.username.lower() in common_usernames:
+            issues.append(SecurityIssue(
+                type="common_username",
+                severity="low",
+                message=f"使用常见用户名 '{config.username}' 可能增加安全风险",
+                suggestion="考虑使用非标准用户名"
+            ))
+
+        # 检测常用端口
+        common_ports = [22, 23, 80, 443, 3389]
+        if config.port in common_ports and config.protocol and config.protocol.value != "ssh":
+            issues.append(SecurityIssue(
+                type="common_port_unprotected",
+                severity="medium",
+                message=f"通过非安全协议访问常用端口 {config.port}",
+                suggestion="对于敏感服务，建议使用安全协议(如SSH)进行访问"
+            ))
+
+        # 检测主机地址
+        if config.host in ['localhost', '127.0.0.1', '::1']:
+            issues.append(SecurityIssue(
+                type="localhost_connection",
+                severity="info",
+                message="连接到本地主机",
+                suggestion="确认此操作是否必要"
+            ))
+
+        # 检测认证方式
+        if config.auth_type and config.auth_type.value == "password":
+            issues.append(SecurityIssue(
+                type="password_auth",
+                severity="medium",
+                message="使用密码认证方式",
+                suggestion="建议使用密钥认证方式以提高安全性"
             ))
 
         return issues

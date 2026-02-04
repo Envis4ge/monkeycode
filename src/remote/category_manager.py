@@ -238,6 +238,10 @@ class CategoryManager:
 
     async def initialize_default_categories(self) -> None:
         """初始化默认设备产品类别"""
+        # 检查是否已经有类别，避免重复初始化
+        if len(self._categories) > 0:
+            return
+
         default_categories = [
             ("网关_海思", "海思芯片的网关设备"),
             ("网关_中兴微", "中兴微芯片的网关设备"),
