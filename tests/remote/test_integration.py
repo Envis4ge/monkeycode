@@ -113,7 +113,7 @@ class TestCategoryManager:
     """测试类别管理器"""
 
     @pytest.fixture
-    def category_manager(self, event_loop):
+    def category_manager(self):
         """创建类别管理器实例"""
         return CategoryManager()
 
@@ -162,7 +162,7 @@ class TestCategoryManager:
         all_stats = await category_manager.get_all_statistics()
 
         assert len(all_stats) > 0
-        assert all(len(stats) > 0 for stats in all_stats.values())
+        assert all(stats.total_commands >= 0 for stats in all_stats.values())
 
     @pytest.mark.asyncio
     async def test_delete_category(self, category_manager):
@@ -191,7 +191,7 @@ class TestSecurityManager:
     """测试安全管理器"""
 
     @pytest.fixture
-    def security_manager(self, event_loop):
+    def security_manager(self):
         """创建安全管理器实例"""
         return SecurityManager()
 

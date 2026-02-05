@@ -7,11 +7,22 @@ import asyncio
 import os
 from typing import List, Optional
 from pathlib import Path
-import readline
+
+# 尝试导入 readline 模块（Windows 可能需要 pyreadline3）
+try:
+    import readline
+except ImportError:
+    try:
+        import gnureadline as readline
+    except ImportError:
+        readline = None
 
 
 class CommandHistory:
     """命令历史记录管理器"""
+
+    # 内存中的历史记录（当 readline 不可用时使用）
+    _in_memory_history: List[str] = []
 
     def __init__(self, max_entries: int = 1000, history_file: str = None):
         """
@@ -35,25 +46,50 @@ class CommandHistory:
 
     def _load_history_from_file(self):
         """从文件加载历史记录"""
-        try:
-            if os.path.exists(self.history_file):
-                readline.read_history_file(self.history_file)
-                # 限制历史记录条数
-                readline.set_history_length(self.max_entries)
-        except Exception as e:
-            print(f"Warning: Could not load command history from {self.history_file}: {e}")
+        if readline is not None:
+            try:
+                if os.path.exists(self.history_file):
+                    readline.read_history_file(self.history_file)
+                    # 限制历史记录条数
+                    readline.set_history_length(self.max_entries)
+            except Exception as e:
+                print(f"Warning: Could not load command history from {self.history_file}: {e}")
+        else:
+            # 使用简单的历史记录
+            try:
+                if os.path.exists(self.history_file):
+                    with open(self.history_file, 'r') as f:
+                        CommandHistory._in_memory_history = f.read().splitlines()
+                        # 限制历史记录条数
+                        CommandHistory._in_memory_history = CommandHistory._in_memory_history[-self.max_entries:]
+            except Exception as e:
+                print(f"Warning: Could not load command history from {self.history_file}: {e}")
 
     def save_history(self):
         """保存历史记录到文件"""
-        try:
-            readline.write_history_file(self.history_file)
-        except Exception as e:
-            print(f"Warning: Could not save command history to {self.history_file}: {e}")
+        if readline is not None:
+            try:
+                readline.write_history_file(self.history_file)
+            except Exception as e:
+                print(f"Warning: Could not save command history to {self.history_file}: {e}")
+        else:
+            # 保存内存中的历史记录
+            try:
+                with open(self.history_file, 'w') as f:
+                    f.write('\n'.join(CommandHistory._in_memory_history))
+            except Exception as e:
+                print(f"Warning: Could not save command history to {self.history_file}: {e}")
 
     def add_command(self, command: str):
         """添加命令到历史记录"""
         if command.strip():  # 只添加非空命令
-            readline.add_history(command)
+            if readline is not None:
+                readline.add_history(command)
+            else:
+                CommandHistory._in_memory_history.append(command)
+                # 限制历史记录条数
+                if len(CommandHistory._in_memory_history) > self.max_entries:
+                    CommandHistory._in_memory_history = CommandHistory._in_memory_history[-self.max_entries:]
 
     def get_history(self, limit: int = None) -> List[str]:
         """获取历史命令列表
@@ -64,20 +100,29 @@ class CommandHistory:
         Returns:
             命令列表，最新的命令在最后
         """
-        history_size = readline.get_current_history_length()
-        start_index = max(0, history_size - (limit or history_size))
+        if readline is not None:
+            history_size = readline.get_current_history_length()
+            start_index = max(0, history_size - (limit or history_size))
 
-        history = []
-        for i in range(start_index, history_size):
-            cmd = readline.get_history_item(i + 1)  # readline索引从1开始
-            if cmd:
-                history.append(cmd)
+            history = []
+            for i in range(start_index, history_size):
+                cmd = readline.get_history_item(i + 1)  # readline索引从1开始
+                if cmd:
+                    history.append(cmd)
 
-        return history
+            return history
+        else:
+            # 返回内存中的历史记录
+            if limit:
+                return CommandHistory._in_memory_history[-limit:]
+            return CommandHistory._in_memory_history[:]
 
     def clear_history(self):
         """清空历史记录"""
-        readline.clear_history()
+        if readline is not None:
+            readline.clear_history()
+        else:
+            CommandHistory._in_memory_history = []
         self.save_history()
 
 
@@ -137,18 +182,19 @@ class InteractiveCommandInput:
 
     def setup_readline(self):
         """设置readline，启用命令补全和历史记录功能"""
-        try:
-            # 设置补全函数
-            readline.set_completer(self.completer.complete)
+        if readline is not None:
+            try:
+                # 设置补全函数
+                readline.set_completer(self.completer.complete)
 
-            # 启用Tab补全
-            readline.parse_and_bind("tab: complete")
+                # 启用Tab补全
+                readline.parse_and_bind("tab: complete")
 
-            # 设置历史记录最大数量
-            readline.set_history_length(self.history_manager.max_entries)
-        except ImportError:
-            # 在某些系统上rlcompleter不可用
-            pass
+                # 设置历史记录最大数量
+                readline.set_history_length(self.history_manager.max_entries)
+            except Exception:
+                # 在某些系统上rlcompleter不可用
+                pass
 
     def get_user_input(self, prompt: str = None) -> str:
         """
@@ -163,7 +209,7 @@ class InteractiveCommandInput:
         prompt = prompt or self.prompt
 
         try:
-            # 读取用户输入，自动支持方向键浏览历史命令和Tab补全
+            # 读取用户输入，自动支持方向键浏览历史命令和Tab补全（如果有 readline）
             command = input(prompt)
             if command.strip() and self.history_manager:
                 self.history_manager.add_command(command)
