@@ -38,7 +38,7 @@ const Terminal = ({ activeSession }) => {
 
     // 连接到WebSocket终端服务
     if (activeSession && !wsRef.current) {
-      const ws = new WebSocket('ws://localhost:8000/ws/terminal');
+      const ws = new WebSocket('ws://localhost:3000/ws/terminal');
 
       ws.onopen = () => {
         termRef.current.writeln('Connected to terminal...');
