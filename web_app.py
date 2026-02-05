@@ -10,7 +10,12 @@ from src.remote.session_manager import SessionManager
 from src.remote.category_manager import CategoryManager
 from src.remote.command_history import CommandHistory
 from src.ai.command_converter import convert_natural_language_to_command
-from src.models.remote import RemoteConnectionConfig, DeviceProductCategory
+from src.models.remote import (
+    RemoteConnectionConfig,
+    DeviceProductCategory,
+    AuthType,
+    ConnectionProtocol
+)
 
 app = FastAPI(title="SmartTerm Web API", version="1.0.0")
 
@@ -52,11 +57,11 @@ async def add_config(config_data: dict):
         name=config_data["name"],
         host=config_data["host"],
         port=config_data.get("port", 22),
-        auth_type=config_data.get("auth_type", "password"),
+        auth_type=AuthType(config_data.get("auth_type", "password")),
         username=config_data["username"],
         password=config_data.get("password"),
         key_path=config_data.get("key_path"),
-        protocol=config_data.get("protocol", "ssh")
+        protocol=ConnectionProtocol(config_data.get("protocol", "ssh"))
     )
 
     await connection_manager.save_config(config)
@@ -87,11 +92,11 @@ async def connect_to_host(connection_data: dict):
         name=connection_data.get("name", f"temp_{connection_data['host']}_{connection_data['port']}"),
         host=connection_data["host"],
         port=connection_data.get("port", 22),
-        auth_type=connection_data.get("auth_type", "password"),
+        auth_type=AuthType(connection_data.get("auth_type", "password")),
         username=connection_data["username"],
         password=connection_data.get("password"),
         key_path=connection_data.get("key_path"),
-        protocol=connection_data.get("protocol", "ssh")
+        protocol=ConnectionProtocol(connection_data.get("protocol", "ssh"))
     )
 
     try:
