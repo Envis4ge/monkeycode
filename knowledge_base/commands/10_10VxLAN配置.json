@@ -1,0 +1,326 @@
+﻿{
+    "metadata":  {
+                     "generated_at":  "2026-03-28 16:32:23",
+                     "section_count":  2,
+                     "chapter_num":  "10",
+                     "chapter_name":  "VxLAN配置"
+                 },
+    "sections":  [
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear vxlan-tunnel statistics local-ipv4",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_1.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear vxlan-tunnel statistics local-ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_10.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vxlan-tunnel statistics vxlan",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_2.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear vxlan-tunnel statistics vxlan",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_3.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "global-vxlan disable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_4.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "global-vxlan enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_5.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show vxlan statistics",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_6.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show vxlan tunnel",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_7.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vxlan",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_8.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vxlan-tunnel statistics local-ipv4",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_9.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vxlan-tunnel statistics local-ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "01VxLAN基本命令",
+                         "file_count":  11,
+                         "name":  "VxLAN基本命令",
+                         "command_count":  11
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_11.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "overlay-encapsulation",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_12.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tunnel destination",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_13.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tunnel dscp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_14.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tunnel mode",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_15.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tunnel source interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_16.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tunnel source",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_17.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tunnel vrf",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_18.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vxlan-tunnel-config",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_19.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "02VxLAN隧道命令",
+                         "file_count":  9,
+                         "name":  "VxLAN隧道命令",
+                         "command_count":  9
+                     }
+                 ]
+}

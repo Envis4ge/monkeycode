@@ -1,0 +1,1909 @@
+﻿{
+    "metadata":  {
+                     "generated_at":  "2026-03-28 16:33:24",
+                     "section_count":  1,
+                     "chapter_num":  "03",
+                     "note":  "此章节使用sect1_*.html格式",
+                     "chapter_name":  "接口配置"
+                 },
+    "sections":  [
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_100.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_101.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_102.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_103.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_104.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_105.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_106.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_107.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_108.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "pw",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_109.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "revert interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_110.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show interface brief",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_111.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show interface description",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_112.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ip interface brief",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_113.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ip interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_114.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ipv6 interface brief",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_115.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ipv6 interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_116.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show logicinterface summary",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_117.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pw",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_118.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_119.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_12.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_120.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_121.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_122.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_123.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_124.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_125.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_126.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_127.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_128.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_129.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_13.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_130.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_131.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_132.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_133.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "shutdown",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_134.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "switch attribute",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_135.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "switch attribute",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_136.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "switch attribute",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_137.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "track trigger",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_14.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_15.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_16.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_17.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_18.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_19.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_20.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_21.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_22.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_23.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_24.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_25.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_26.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "default byname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_27.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "default description",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_28.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "default interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_29.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "description",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_30.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "description",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_31.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ethernet-interface-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_32.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface mac-address offset",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_33.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface mac-address offset",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_34.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface mac-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_35.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_36.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_37.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_38.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_39.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_40.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_41.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_42.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_43.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_44.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_45.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_46.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_47.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip load-sharing",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_48.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_49.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_50.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_51.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_52.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_53.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_54.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_55.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_56.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_57.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_58.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip unnumbered",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_59.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip unnumbered",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_60.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip unnumbered",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_61.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf forwarding",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_62.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf forwarding",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_63.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf forwarding",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_64.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf forwarding",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_65.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf forwarding",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_66.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf forwarding",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_67.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv4 track",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_68.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_69.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_70.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_71.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_72.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_73.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_74.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_75.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_76.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_77.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_78.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_79.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_80.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_81.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_82.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_83.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_84.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_85.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_86.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ipv6 mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_87.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "load-sharing bandwidth",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_88.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_89.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_90.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_91.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_92.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_93.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_94.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_95.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_96.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_97.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_98.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "logging link-status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect1_99.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mpls mtu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "03接口配置",
+                         "file_count":  126,
+                         "name":  "接口配置命令",
+                         "command_count":  126
+                     }
+                 ]
+}

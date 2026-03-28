@@ -1,0 +1,1101 @@
+﻿{
+    "metadata":  {
+                     "generated_at":  "2026-03-28 16:32:23",
+                     "section_count":  7,
+                     "chapter_num":  "01",
+                     "chapter_name":  "产品管理"
+                 },
+    "sections":  [
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "redundancy switch sc",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_1.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "reload system",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_10.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pid parameter",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_11.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show power",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_12.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show processor",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_13.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show synchronization detail",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_14.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show synchronization",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_15.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show temperature detail",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_16.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show temperature environment-threshold",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_2.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show cpuload-threshold",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_3.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show fan strategy",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_4.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show fan",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_5.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_6.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show hostname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_7.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show load-mode",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_8.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show login authentication",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_9.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show memory-threshold",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "01基本配置",
+                         "file_count":  17,
+                         "name":  "基本配置",
+                         "command_count":  17
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_17.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "banner incoming",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_18.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "hostname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_19.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "load-mode",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_20.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "login authentication",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_21.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nvram enable-password",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_22.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "overheat-protection",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_23.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "upgrade priority",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "02系统配置",
+                         "file_count":  7,
+                         "name":  "系统配置",
+                         "command_count":  7
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_24.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_25.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_26.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_27.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "negotiation",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_28.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "pemode",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_29.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "port-mode xgei-gei",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_30.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "product manage",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_31.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "speed",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_32.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "speed",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "03接口配置",
+                         "file_count":  9,
+                         "name":  "接口配置",
+                         "command_count":  9
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_33.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "cpuload-threshold",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_34.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "fan speed",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_35.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "memory-threshold",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_36.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "pid parameter kp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_37.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "pid parameter t",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_38.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "pid parameter td",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_39.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "pid parameter ti",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_40.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "power",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "04环境监控",
+                         "file_count":  8,
+                         "name":  "环境监控",
+                         "command_count":  8
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_41.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "install activate",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_42.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "install add",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_43.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "install cleanup",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_44.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "install commit",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_45.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "install deactivate",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_46.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "install delete",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_47.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "load boot-firmware",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_48.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "load epld-firmware",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_49.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "load mcu-firmware",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_50.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show install",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_51.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show software",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "05版本管理",
+                         "file_count":  11,
+                         "name":  "版本管理",
+                         "command_count":  11
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_52.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "assign card",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_53.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "assign interface share",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_54.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "assign interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_55.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "assign-mode",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_56.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "config virtual-network-device",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_57.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "delete assigned offline card",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_58.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "delete assigned offline interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_59.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "deploy mpu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_60.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "description",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_61.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "disable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_62.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_63.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show virtual-network-device",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_64.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show vlan-allocate",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_65.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "undeploy mpu",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_66.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vlan-allocate",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_67.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vnd",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "06切片基本操作",
+                         "file_count":  16,
+                         "name":  "切片基本操作",
+                         "command_count":  16
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_68.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nsr",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "07NSR配置",
+                         "file_count":  1,
+                         "name":  "NSR配置",
+                         "command_count":  1
+                     }
+                 ]
+}

@@ -1,0 +1,2600 @@
+﻿{
+    "metadata":  {
+                     "generated_at":  "2026-03-28 16:32:23",
+                     "section_count":  5,
+                     "chapter_num":  "09",
+                     "chapter_name":  "MPLS配置"
+                 },
+    "sections":  [
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_333.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "bind",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_334.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "insegment",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_335.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mpls static-lsp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_336.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "outsegment",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "01MPLS通用命令",
+                         "file_count":  4,
+                         "name":  "MPLS通用命令",
+                         "command_count":  4
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_337.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "auto-relocalization",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_338.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "bier-label-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_339.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "forbidden-label-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_340.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "kompella-range-size",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_341.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-reservation",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_342.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mpls label manage",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_343.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "prepare new-label-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_344.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls label manage",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_345.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls label manage-mode",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_346.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls label usage detail",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_347.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls label usage",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_348.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "srgb-label-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_349.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "srlb-label-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_350.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "static-label-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "02标签管理命令",
+                         "file_count":  14,
+                         "name":  "标签管理命令",
+                         "command_count":  14
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_351.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "access-fec",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_352.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "apply arp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_353.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "apply mac",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_354.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "apply mc-port",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_355.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "apply mc-pw",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_356.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "apply mlacp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_357.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "auto-config interface global",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_358.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "auto-config interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_359.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "auto-config ipv6 interface global",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_360.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "auto-config ipv6 interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_361.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "backoff",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_362.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "bfd ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_363.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "bfd",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_364.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "capability",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_365.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear mpls ldp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_366.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp advertisements",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_367.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_368.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp bindings",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_369.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp graceful-restart",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_370.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp messages received",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_371.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp messages sent",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_372.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp session io",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_373.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp session state-machine",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_374.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp transport connections",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_375.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ldp transport events",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_376.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery hello",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_377.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery hello",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_378.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery hello",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_379.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery targeted-hello accept",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_380.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery targeted-hello holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_381.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery targeted-hello interval",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_382.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery transport-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_383.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "discovery transport-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_384.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "egress ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_385.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "egress",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_386.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "entropy-label",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_387.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "explicit-null ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_388.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "explicit-null",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_389.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "filter",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_390.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "graceful-restart timer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_391.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "graceful-restart",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_392.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "gtsm",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_393.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "gtsm",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_394.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_395.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_396.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "holdtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_397.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "hostname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_398.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "igp sync delay",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_399.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "igp sync interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_400.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_401.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_402.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-advertise disable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_403.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-advertise ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_404.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-advertise old-style",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_405.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-advertise",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_406.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-distribution",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_407.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-distribution",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_408.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-request ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_409.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-request",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_410.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-retention",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_411.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-withdraw-delay timer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_412.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "label-withdraw-delay",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_413.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ldp-debug-policy hello interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_414.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ldp-debug-policy session",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_415.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ldp-debug-policy target-hello ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_416.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ldp-debug-policy target-hello",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_417.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ldp-debug-policy transport connections peertransaddr",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_418.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ldp-over-te",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_419.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "longest-match",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_420.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "lsp-control",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_421.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "lsp-dod-request ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_422.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "lsp-dod-request queue",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_423.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "lsp-dod-request",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_424.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "lsp-policy",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_425.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mpls ldp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_426.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "neighbor dual-stack transport-connection prefer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_427.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "neighbor dual-stack transport-connection prefer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_428.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "neighbor password",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_429.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "peer ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_430.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "peer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_431.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "peer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_432.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "redundancy interchassis group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_433.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "redundancy interchassis peer-mode standard",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_434.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "reset mpls ldp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_435.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "router-id",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_436.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "session protection",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_437.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show debug ldp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_438.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show error packet ldp statistics",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_439.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show error packet ldp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_440.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp backoff",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_441.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp bindings summary",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_442.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp bindings",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_443.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp debug-policy",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_444.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp discovery",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_445.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp graceful-restart",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_446.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp iccp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_447.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp igp sync",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_448.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp instance statistic",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_449.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_450.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp log hello-down",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_451.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp log neighbor-down",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_452.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp neighbor",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_453.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp parameters",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_454.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls ldp traffic-count",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_455.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "style",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_456.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "target",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_457.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "target-session ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_458.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "target-session",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_459.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "traffic-count-fec ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_460.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "traffic-count-fec",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "03LDP命令",
+                         "file_count":  110,
+                         "name":  "LDP命令",
+                         "command_count":  110
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_461.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "adapt",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_462.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear mpls oam statistics local_tunnel",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_463.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear mpls oam statistics remote_tunnel",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_464.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug mpls oam all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_465.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug mpls oam bdi",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_466.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug mpls oam cv",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_467.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug mpls oam fdi",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_468.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug mpls oam te-tunnel",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_469.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "egress",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_470.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "local",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_471.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mpls oam enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_472.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "mpls oam",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_473.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show debug mpls-oam",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_474.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show mpls oam",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_475.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_476.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_477.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics bdi",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_478.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics bdi",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_479.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics cv",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_480.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics cv",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_481.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics fdi",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_482.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics fdi",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_483.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics ffd",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_484.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics ffd",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_485.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "statistics",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_486.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "transit",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_487.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "type",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "04MPLS OAM命令",
+                         "file_count":  27,
+                         "name":  "MPLS OAM命令",
+                         "command_count":  27
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_488.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug pwe3 all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_489.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug pwe3 encode",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_490.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug pwe3 event",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_491.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug pwe3 signal",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_492.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show debug pwe3",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_493.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal fec128 detail",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_494.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal fec128",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_495.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal fec129 detail",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_496.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal fec129",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_497.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal mspw",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_498.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal service-aware atm",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_499.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal service-aware fr",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_500.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal service-aware tdm",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_501.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal statistics",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_502.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show pwe3 signal",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "05PWE3命令",
+                         "file_count":  15,
+                         "name":  "PWE3命令",
+                         "command_count":  15
+                     }
+                 ]
+}

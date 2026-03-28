@@ -1,0 +1,10497 @@
+﻿# ZXA10 命令索引 - 按字母排序
+
+**总计**: 5211 个命令
+
+---\n\n## A (196个命令)
+
+- **accept-register** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **auto-cost** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **anycast-rp-local** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **access-group** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **accept-rp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **authentication-key** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **area** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **auto-cost** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **authentication-key** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **anycast-rp-local** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **access-ip-source** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **access-group** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **assert-holdtime** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **assert-disable** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **anycast-rp-peer** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **assert-holdtime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **assert-disable** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **anycast-rp-peer** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **access-group** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **accept-rp** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **accept-register** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **area** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **additional-paths send-igp-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv4** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv6 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **aggregate-address** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **aggregate-address** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv6** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv4 mcast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv4 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family route-target** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv6 mcast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv6 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family vpnv4 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv4** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **address-family ipv4 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv4 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **advertise interface** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **adjacency-secondary** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **auto-summary** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **additional-paths send-igp-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **aggregate-address** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **aggregate-address** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv4 mdt** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv4 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **additional-paths send-igp-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **alarm delay** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm appear-delay** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **accept** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **authentication-diameter-group** - 无描述
+  - 章节：安全配置 > AAA配置命令 | 模式：
+- **address** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **alarm disappear-delay** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **apply board** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm-level** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm-confirm** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **accept** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **apply system** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **apply interface** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **attribute forbid** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **attribute forbid** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **attribute convert** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **authentication-server-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **attribute replace nas-ip-address** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **attribute replace nas-identifier** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **algorithm** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **algorithm** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **authentication-radius-group** - 无描述
+  - 章节：安全配置 > AAA配置命令 | 模式：
+- **attribute convert** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **alias** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **alias** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **alarm-code** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **auto-config interface** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **auto-config interface global** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **apply mlacp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **adapt** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **auto-config ipv6 interface** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **auto-config ipv6 interface global** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **apply arp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **access-fec** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **auto-relocalization** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **apply mc-pw** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **apply mc-port** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **apply mac** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **alarm trap-confirm interval** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm shield-profile** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm netconf-report** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm-code** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm trap-oid-expand** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm trap-confirm** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm heartbeat-notification** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **auto-write** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **auto-write cpu-limit** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **alarm level-change** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm heartbeat-send** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **alarm heartbeat-period** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **auth-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **alarm-threshold pon-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **alarm-threshold onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **add-access-loop-tag pppoe subopt81** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add string** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add delimiter** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **alarm onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auto-replace** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auto-learning** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **alarm-threshold interface** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **alarm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **alarm pon-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **add-access-loop-tag dhcpv6 subopt82** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add-access-loop-tag dhcpv6 subopt81** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add-access-loop-tag dhcpv4 subopt90** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add-card** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **als** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **add-access-loop-tag dhcpv6 subopt90** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add variable extended** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add-access-loop-tag pppoe subopt90** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add-access-loop-tag pppoe subopt82** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add-access-loop-tag dhcpv4 subopt82** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add-access-loop-tag dhcpv4 subopt81** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **add variable standard** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **alarm interface** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **add-port uplink-port** - 无描述
+  - 章节：产品配置 > 手拉手保护配置 | 模式：
+- **add-port olt-port** - 无描述
+  - 章节：产品配置 > 手拉手保护配置 | 模式：
+- **acl number** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **add ctrl-byte** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **add circuit-id** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **add address-space** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **assign interface** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **assign interface share** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **assign card** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **absolute** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **activate** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **assign-mode** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **auto-config voip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **authpass-control** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auth-onu-rule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auto-learning** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auto-dispatch-set** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auto-config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auth-id loid** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **admin** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **admin** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auth-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auth-id** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **auth-id mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **address-pool** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **address-lifetime** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **algorithm** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **address-family ipv4 sr-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **additional-paths different-color** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **additional-paths different-color** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **authentication-type** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-type** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-type** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **aftr** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **algorithm** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **authentication-type** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **address-family l2vpn vpls** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family l2vpn evpn** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv6** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family link-state** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family link-state vpn** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **additional-paths selection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv6 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv6 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv4 vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv6 vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv6 sr-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **address-family ipv6 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **authentication-type** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **alarm-threshold** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **aging-time** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **add** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **authentication-active** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **auto-write enable** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **auto-write disable** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **alarm threshold ptp-clockclass** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **alarm threshold frequency-ql** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **alarm threshold 1pps-status** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **admin** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **admin** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **action** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **authentication** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-type** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-active** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-active** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-active** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-active** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **authentication-active** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+
+## B (151个命令)
+
+- **bgp fast-external-fallover** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp fast-close-tcp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp frr wtr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp frr wtr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp ext-community-type-compatible** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp ebgp-interface-sensitive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp ebgp-interface-sensitive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp enhanced-error** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp enforce-first-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp graceful-restart** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp graceful-restart stalepath-time** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp ip-prefix label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp graceful-restart restart-time** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp frr wtr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp frr wtr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp frr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp frr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp ebgp-interface-sensitive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp connect-delay** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp confederation peers** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp confederation identifier** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath virtual-spoke** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath router-id-ignore** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp cluster-id** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp client-to-client reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp default set-mpls-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp default route-target filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp deterministic-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp default set-mpls-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp default local-preference** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp default ipv4-unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bsr-border** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bsm-unicast** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bsr-candidate** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bsr-candidate** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bfd-enable** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bfd-enable** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bfd-enable** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bfd-enable** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bsm-unicast** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bfd ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **backoff** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **buffer** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **bier-label-range** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **bsr-candidate-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bsr-candidate-holdtime** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bind** - 无描述
+  - 章节：MPLS配置 > MPLS通用命令 | 模式：
+- **bsr-policy** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **bsr-policy** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **bgp rib-only** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp nexthop trigger delay** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp neighbor graceful-restart** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp rib-only** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp process shared-mode** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bsr-candidate** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bsr-border** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bsr-candidate-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bsr-candidate-holdtime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **bgp link-state** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **bgp bestpath origin-from** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **blade on** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **blade off** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **blade-v6ifconfig** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **blade-ifconfig** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **blade manage** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **broadcast-limit cpu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **blacklist** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **bias-threshold** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **broadcast-limit ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **basic-tlv management-address-tlv ipv6** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **basic-tlv management-address-tlv ipv4** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **bpdu** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **basic-tlv management-address-tlv ipv6** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **basic-tlv management-address-tlv ipv4** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **basemac** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **bandwidth-util** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **blackout-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **bind-ptp-profile** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **blacklist** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **bind authentication-template** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **banner incoming** - 无描述
+  - 章节：产品管理 > 系统配置 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **bind authorization-template** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **bind-onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **bpdu-guard** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **bgp bestpath aigp-ignore** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp attribute-download ipv6** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath bgp-lu-nexthop-compare** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath as-path-ignore** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp attribute-download ipv4** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp always-compare-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp advertise-by-sequence** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp as-notation plain** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath origin-from** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath origin-from** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath origin-from** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath origin-from** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath igp-metric-ignore** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath ecmp-as-path-value-ignore** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath bgp-lu-nexthop-compare** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath external** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp bestpath ecmp-igp-metric-compare** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp advertise-active-only** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp router-id** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bind-pcp-server** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **bgp select-global-nexthop** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp route-scan-time** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **binding** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **backpath-check** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **backpath-check exclude** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **binding** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **bfd** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **bmp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bmp enable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp advertise-active-only** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp advertise-active-only** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bmp disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp update-delay always** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp select-resolved-nexthop** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp update-lowest-priority** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **bgp update-delay** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+
+## C (256个命令)
+
+- **clear ip bgp soft vpnv6 flowspec in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 flowspec out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 unicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 flowspec both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 mcast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 multicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 mcast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 mcast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 mcast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 multicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 mcast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 mcast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 unicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 unicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 multicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 multicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 unicast flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv6 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv6 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 unicast in prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 unicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 unicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 multicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 multicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv4 mcast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv6 unicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 sr-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 unicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 sr-policy both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 sr-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 vrf &lt;mid&gt; both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 vrf &lt;mid&gt; in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 unicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 unicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 flowspec both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 flowspec in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 vrf &lt;mid&gt; in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 vrf &lt;mid&gt; out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 multicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 multicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 flowspec out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 multicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft link-state vpn both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft link-state vpn in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft link-state in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft link-state out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 flowspec in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 flowspec out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft link-state vpn out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft vpnv4 flowspec both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft l2vpn evpn in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft l2vpn evpn out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv6 vrf &lt;mid&gt; out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft l2vpn evpn both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft l2vpn vpls out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft link-state both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft l2vpn vpls both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft l2vpn vpls in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **commands** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **configure terminal** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **cmdgroup** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **command-authorization** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **cp** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **clear buffer** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **copy ftp** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **cd** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **clear mpls ldp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **clear mpls oam statistics local_tunnel** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **clear ipv6 pim traffic** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **capability** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **clear vxlan-tunnel statistics local-ipv6** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **clear vxlan-tunnel statistics vxlan** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **clear mpls oam statistics remote_tunnel** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **clear vxlan-tunnel statistics local-ipv4** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **clear accounting local-buffer** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **clear radius counter** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **calling-station-format** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **class-as-car** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **ciphersuite** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **context** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **client** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **clear ssh server public-key keyname** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **context-engine-id** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **context-name** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **clear logging** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **copy sftp** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **called-station-format** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **calling-station-format** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **clear line vty** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **copy tftp** - 无描述
+  - 章节：OAM命令 > TFTP配置命令 | 模式：
+- **cost link-sd** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **cost** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **compatible rfc1583** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **cost link-damping** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **clear ipv6 ospf process** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **cost link-damping** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **cost** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **capability vrf-lite** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **clear ip bgp vpnv6 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **constrain-rt-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv6 unicast flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp vpnv6 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip ospf process** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **clear ip ospf redistribution** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **capability opaque** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **capability vrf-lite** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **connect-source** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **connect-source** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clear ip pim statistics** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clear ip pim traffic** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clear ipv6 mroute** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **clear ipv6 pim statistics** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **clear ipv6 mld groups** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **clear ipv6 mld packet-count** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **clear ip igmp groups** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clear ip igmp packet-count** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **cost** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **clear ipv6 rip** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **clear ip msdp sa-cache** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clear ip msdp statistics** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clear ip mroute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clear ip msdp peer** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **clock-mode** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **clear packet-statistics** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **clear card-restart-times** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **clear system-restart-times** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **clear statistics multicast-flow** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **clear vlan-statistics** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **clear qos statistics interface** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **clear statistics flow** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **commit-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **compensation-1pps** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **cmcctest** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **commit-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **card-apply** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **card-save** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **custom-oam** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **cutover allocid-start-value** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **clearneighbor** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **clearstatistic** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **clear lacp** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **clearneighbor** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **cv-stop** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **check option82** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **clearstatistic** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **clear** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **cpu** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **clear security mac-move-log** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **clear cpu queue statistics** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **control-panel** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **cvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **clear dhcp-test interface** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **clear multicast-monitor** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **cvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **clear configuration commit** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **configure exclusive** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **clock update-timezone-list** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **clock set** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **cfm ltr-read** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **cfm** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **cfm linktrace** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **cfm loopback** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **clock summer-time** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **clock sync-source ntp** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **cpuload-threshold** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **config virtual-network-device** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **clock sync-threshold-switch** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **clock timezone** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **clock sync-source ptp** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **clock sync-threshold maximum** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **cfm md** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **cfm mep** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **cos-to-dei-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **cfm ma** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **clear** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **clear-oam-config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **channel** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **classification port** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **create md** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **create mep** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **clear mep-stat** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **create ma** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **cos copy-to-inner** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **cos copy-to-outer** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **create mip** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **create rmep** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **clear ip bgp l2vpn evpn flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp l2vpn evpn in prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp l2vpn evpn dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp l2vpn evpn flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 flowspec in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 flowspec out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp l2vpn vpls update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 flowspec both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 unicast flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 vrf &lt;mid&gt; unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 vrf &lt;mid&gt; unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 vrf &lt;mid&gt; unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 vrf &lt;mid&gt; unicast flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 sr-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 sr-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 route-target out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 sr-policy both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 unicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 vrf &lt;mid&gt; both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 unicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 unicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 mdt out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 multicast both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 mdt both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 mdt in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 route-target both** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 route-target in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 multicast in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp soft ipv4 multicast out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **cos** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **clear ip bgp dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **client write disable** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **client write enable** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **clear ip bgp ipv4 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 mdt update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **client option60 format** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **client option61 format** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **clear ip dhcp packet statistic** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **clear ip dhcp relay dead server** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **client start** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **client stop** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **client policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **client policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **clear ip bgp ipv4 vrf &lt;mid&gt; unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 vrf &lt;mid&gt; unicast in prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 vrf &lt;mid&gt; unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 vrf &lt;mid&gt; unicast flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 sr-policy update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 vrf &lt;mid&gt; unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv6 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 unicast flap-statistics neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 sr-policy update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 vrf &lt;mid&gt; multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **clear ip bgp ipv4 unicast in prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+
+## D (376个命令)
+
+- **debug ipv6 ospfv3 pkt dd** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 pkt detail** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 pkt ack** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 nsm rdst** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 nsm** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 pkt hello** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 rt external** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 rt install** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 pkt** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 pkt req** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 pkt upd** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 nsm intf** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 lsa refresh** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 lsa** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 lsa maxage** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 lsa gen** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 lsa install** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 mode debug** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 nfsm timer** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 nfsm** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 nfsm status** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 mode trace** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 nfsm event** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 rt inter** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **damping-enable** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **damping-threshold** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **distance** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **debug ipv6 ripng packet send** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **data-filter** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip mroute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip msdp all** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip mroute all** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip igmp all** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip igmp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ipv6 ripng packet recieve** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **debug ipv6 ospfv3 rt** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **default-cost** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 rt summary** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 rt intra** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 rt range** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ripng all** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **debug ipv6 ripng events** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **domain-id** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **distance ospfv3** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **distribute-list** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ip ospf spf intra** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf spf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf spf inter** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf retransmission** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf spf external** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf te-topology-change** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **disable interface** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **disable ip ospf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **disable area** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf packet** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf fast-reroute external** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf fast-reroute inter** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf events** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf cspf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf database-timer** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf fast-reroute intra** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf lsa-generation** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf nsf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf flood** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf fast-reroute nbrspf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf fast-reroute** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **distance ospf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ipv6 ospfv3 ifsm event** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 ifsm status** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 events** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 events router** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 events vlink** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 ifsm timer** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 level flow** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 lsa fld** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 level detail** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 ifsm** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 level abnormal** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 events os** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **dynamic-remote-lfa mpls-ldp capability** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **dynamic-remote-lfa mpls-ldp capability** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **domain-tag** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **distribute-list** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **domain-id** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **dynamic-remote-lfa mpls-ldp maximum-cost** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ipv6 ospfv3 events abr** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 events asbr** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug ipv6 ospfv3 all** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **dynamic-remote-lfa mpls-ldp maximum-cost** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **dead-interval** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **debug radius accounting packet** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius all** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius accounting event** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius accounting data** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius accounting error** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius authentication data** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius dmcoa data** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius dmcoa error** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius authentication packet** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius authentication error** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius authentication event** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **deadtime** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **disable** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **debug ftp** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **debug all** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **debug pwe3 event** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **debug pwe3 signal** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **delete** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **directory** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **deadtime** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **delay-affirm** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **dir** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **debug-redirect** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **debug radius dmcoa event** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug tacplus authorization** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **debug tacplus exception** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **debug tacplus authentication** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **debug tacplus accounting** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **debug tacplus all** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **diag all** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **diag shell** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **diagnose** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **diag service** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **diag manual** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **diag physical** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **dsl-vendor** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius set filter acct-session-id** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius set filter authen-server-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius set filter acct-server-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius dmcoa packet** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius exception** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius set filter client-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **dm-coa timeout** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **dsl-vendor** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **dm-coa max-retries** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug radius set filter user** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **default-key** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **debug ipv6 mroute** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **debug ipv6 pim all** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **debug ipv6 mroute all** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **debug ipv6 mld all** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **debug ipv6 mld** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **debug ipv6 pim** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **dr-switchback-delay** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **debug ldp advertisements** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **dr-priority** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **dr-ignore** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **dr-priority** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **data-filter** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **default-peer** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **description** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip pim** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip msdp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ip pim all** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **dr-ignore** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **damping-threshold** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **data-filter** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **damping-enable** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **dr-priority** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **dr-switchback-delay** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **debug ldp all** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **discovery transport-address** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug mpls oam all** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **discovery transport-address** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **discovery targeted-hello holdtime** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **discovery targeted-hello interval** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug mpls oam bdi** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **debug pwe3 all** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **debug pwe3 encode** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **debug mpls oam te-tunnel** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **debug mpls oam cv** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **debug mpls oam fdi** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **discovery targeted-hello accept** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp messages sent** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp session io** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp messages received** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp bindings** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp graceful-restart** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp session state-machine** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **discovery hello** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **discovery hello** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **discovery hello** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp transport connections** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **debug ldp transport events** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **dscp** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **description** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **description** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **diaglog exc-event** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **diaglog write** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **dhcp-test** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **debug lldp all** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **debug lldp event** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **debug lldp adjacency** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **debug lacp** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **disable** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **diaglog auto-write** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **dhcpv6-l2-relay-agent trust true** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv6-l2-relay-agent vlan** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv6-l2-relay-agent trust false** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv6-l2-relay-agent remote-id format** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv6-l2-relay-agent remote-id** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv6-l2-relay-agent** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **duplex** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **debug lldp slot** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **del-card** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **dhcpv6-l2-relay-mode** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv6-l2-relay-mode** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **debug lldp packets receive** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **debug spantree tc** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree timers** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree state** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree proposals** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree roles** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **digest-self-adapt** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **dampen** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **debug bfd all** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **disable** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **digest-self-adapt** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **disable** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree migration** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **delete** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **debug spantree agreement** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **dot1-tlv management-vlan-tlv** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **debug lldp packets send** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **debug lldp packets** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **debug spantree all** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree flush** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree info** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree errors** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree bpdu-rx** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug spantree bpdu-tx** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **debug ipv6 dhcp snooping** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **debug cfm** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **debug ip dhcp snooping** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **description** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **description** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **delete ma** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **delete mip all** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **delete mip** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **delete mep** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **delete md** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **delete mep all** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **default interface** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **description** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **disable** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **deploy mpu** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **delete assigned offline card** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **delete assigned offline interface** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **default-privilege-level** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **default byname** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **default description** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **debug time-range** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **debug ntp all** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **debug ntp packet** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **delete rmep all** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **discover-period** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **delete** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcp-option60** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **description** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **dhcp-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **dhcpv4-l2-relay-agent remote-id format** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv4-l2-relay-agent vlan** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv4-l2-relay-agent** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv4-l2-relay-agent trust true** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv4-l2-relay-agent remote-id** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **dhcpv4-l2-relay-agent trust false** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **description** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **dba period-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **dba queue-set active** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **delete** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **delete rmep** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **description** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **dba queue-set** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **deregister** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **deregister** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **default-config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **dba** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **dba** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **debug ip bgp updates** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp vpnv4 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp l2vpn evpn dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp log** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp vpnv6 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **default-information originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp keepalives** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp ignored-updates** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp events** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp bmp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp ipv4 all-vrf unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp ipv6 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp ipv6 vrf &lt;mid&gt; unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp ipv6 all-vrf unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp ipv4 unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip bgp ipv4 vrf &lt;mid&gt; unicast dampening** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **default-metric** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **disable interface** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **debug ip rip** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **debug ip rip events** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **debug ip rip trigger** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **disable interface** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **debug ip ospf adj** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip ospf all** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **dead-interval** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **distance** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **dead-interval** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **debug ip rip database** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **distance bgp internal** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **distance bgp internal** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **distance bgp external** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **disable ip bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **distance bgp external** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **distance bgp internal** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **distance bgp local** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ip rip all** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **distance bgp local** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **distance bgp local** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **distance bgp local** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug dhcp packet interface** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **debug dhcp packet** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **debug dhcp detail mac** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **deadtime** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **debug dhcp all** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **default-router** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **dhcp** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **dhcp-access-list** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **description** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **default-router-priority** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **default-rule** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **dscp** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **debug bfd packet** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **delay-up** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **debug bfd event** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **debug bfd byte** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **debug bfd error** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **destination-address-check** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **dscp** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **dscp** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **dscp** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **disable** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **dscp** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **dhcp-pool** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **domain-name** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **dscp** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **dns-server** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **dhcpv6-pool** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **disable** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **debug dns all** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **debug bgp all** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug bgp rpki-rtr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **debug ipv4-route** - 无描述
+  - 章节：路由配置 > 路由基础命令 | 模式：
+- **debug ip domain** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **dns instant-refresh** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **dhcp ipv6** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **deadtime** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **debug dhcpv6 all** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **dscp** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **disable** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **dns-server** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **debug dhcpv6 filter-by duid** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **default server-group** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **description** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **debug dhcpv6 filter-by trace** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **debug dhcpv6 filter-by interface** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **debug dhcpv6 filter-by packet** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+
+## E (76个命令)
+
+- **enable interface** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **enable interface** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **entropy-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **error packet bgp record** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **error packet rip record** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **enable ip ospf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **error packet ospfv2 record** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **enable area** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **enable interface** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **entropy-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **extend-static-ld** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **error packet bfd record** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **entropy-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **entropy-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **enable ip bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **end** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **explicit-null** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **egress** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **exit** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **execute** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **execute** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **engine-id** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **execute** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **explicit-null ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **error packet ripng record** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **error packet pim record** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **encryption** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **error packet ospfv3 record** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **embedded-rp disable** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **egress** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **entropy-label** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **error packet ipv6 pim record** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **egress ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ecmp-mode** - 无描述
+  - 章节：产品配置 > L3命令 | 模式：
+- **egress-dei-mark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **eth-switch multicast-limit** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **eth-switch unknowncast-limit** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **egress-outer-tpid** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **encrypt algorithm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **encrypt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ems-autocfg-request** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ems-report** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **eth-switch max-frame-length** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **enable-type** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **ethernet-interface-range** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **enable secret** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **env-switch device** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **eth-switch broadcast-limit** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **eth-switch l2cp** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **env-switch in-port** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **env-switch out-port** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **equipment-type** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **enable** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **external-input** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **external-output** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **edged-port** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **error packet spantree record** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **echo source ipv4** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **enable** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **epm** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **epon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **equip-mgmt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **encrypt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **encrypt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ex-vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ex-vlan-table** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **envtemp-high-full** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **ex-vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ex-vlan-table** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+
+## F (67个命令)
+
+- **forwarding-policy** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **frr** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **filter-policy monitor-mroute-interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **filter-policy monitor-mroute-mode** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **filter** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ftp-client source-interface** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **frr** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **forbidden-label-range** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **filter** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **filter-list** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **filter-policy monitor-interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **fast-reroute policy-type** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **fast-reroute** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ftp-client source-ip** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **flush** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **ftp** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **files** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **files** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **filter-id direction** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **flow-unit** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **force-print line-feed disable** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **force-print line-feed enable** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **ftp-server max-login** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **ftp-server source-interface** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **ftp-server access-class** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **ftp-server kick-user** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **ftp-server source-ip vrf** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **ftp-server top-directory** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **ftp-server source-ip ipv4** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **ftp-server source-ip ipv6** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **fast-reroute** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fec** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **fiber-distance** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **fec** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **fec** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **firewall** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **fan-abnormal-full** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **fiber-distance** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **firewall ip-filter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **flow** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **flow-group** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **fan speed** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **forwarding-mode** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **fec-auto-ber** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **fec** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **flow-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **fastdown** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **fan-amend** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **fast-reroute static-remote-lfa** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute tiebreaker per-prefix downstream** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute lfa** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute policy-type** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute tiebreaker per-prefix primary-path** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute tiebreaker per-prefix secondary-path** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute tiebreaker per-prefix lowest-backup-metric** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute tiebreaker per-prefix node-protecting** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **forward-delay** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **force reply broadcast** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **file download** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **filter** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **flash-update-threshold** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **fast-reroute dynamic-remote-lfa** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **fast-reroute ti-lfa sr-mpls** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **fast-reroute** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+
+## G (43个命令)
+
+- **group-to-group reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **group-to-group reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **group-to-group reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **group-to-group reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **group-to-group reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **global maximum-paths ibgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **global maximum-paths eibgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **global maximum-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **group-to-group reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **group-to-group reflection** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **grace-period** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **gtsm** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **gtsm** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **global-vxlan disable** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **group** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **global-vxlan enable** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **graft-retry-time** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **grace-period** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **graft-retry-time** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **graceful-restart** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **graceful-restart timer** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **global-client stop** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **get-config-from-onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **gemport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **gpon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **group-bandwidth** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **group-bandwidth** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **gemport down-queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **global-user-aging** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **gemport loop** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **gemport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **gemport traffic-limit** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **gr** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **guard root** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **gr-time** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **global-client start** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **global-client policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **group-filter** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **group-filter** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **guard loop** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **graceful-restart rcvdinfo holding-threshold** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+
+## H (36个命令)
+
+- **hello-dr-address** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **hello-interval** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **hello-tracking-support** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **hello-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **hello-interval** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **helper-address policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **hello-time** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **hello-interval** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **host-name** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **holdtime** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **holdtime** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **hostname** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **holdtime** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **hello-tracking-support** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **hello-dr-address** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **holdtime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **hello-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **hello-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **hardware-check** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **holdover** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **his-performance auto-upload** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **his-performance alarm** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **host** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **holdtime** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **hostname** - 无描述
+  - 章节：产品管理 > 系统配置 | 模式：
+- **holdtime** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **holdtime** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **hellotime** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **host-version** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **higig-learn** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **holdtime** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **host-version** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **his-performance sample** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **his-performance collect-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **host-ip** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **host-ip** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+
+## I (290个命令)
+
+- **ip domain lookup** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain max-retry** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain flush-cache** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain hostname** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain name** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain name-server ipv6-address** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain proxy** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain name-server import interface** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain name-server ipv4-address** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip dhcp relay server group** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ip dhcp relay server policy group** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ip dhcp policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ip dhcp pool** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ip-pool** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ipv6-address** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **ip domain deadtime** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **ipv4-address** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **ip protocol convergence-priority** - 无描述
+  - 章节：路由配置 > 路由基础命令 | 模式：
+- **ipv6 max-routes** - 无描述
+  - 章节：路由配置 > 路由基础命令 | 模式：
+- **ip domain url** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip max-routes** - 无描述
+  - 章节：路由配置 > 路由基础命令 | 模式：
+- **import best-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **import l2vpn-evpn** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **import vpnv4-unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **import best-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **import l2vpn-evpn** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **ip domain retry** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain snoop flush-cache** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain relay** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain resolve-type** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain snoop url** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain source ipv6-address** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain timeout** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain snoop** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **ip domain source ipv4-address** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **igmp-test simulate** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp-test start** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp-test** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv channel** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv channel-previewprofile** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv authentication** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv cac** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp query-version user-compatible** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp router-alert** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp prejoin-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp querygemport-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp span-vlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp syslog** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp version** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp span-vlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **illegal-mac alarm** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **interface** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ip dhcp access list** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ignore-request-list** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **import** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **iptv package** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv preview auto-reset** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv package-channel** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv package** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv preview reset** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv service** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **ip dhcp filter-vlan** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **iptv preview** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **iptv preview-profile** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **import vpnv6-unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **ip multicast-static-limit** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ip multicast-static-route** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ip multicast-static-frr** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ip multicast-static-interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ip multicast-static-start** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ip-source-check** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **immediate-leave** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ipv6 router rip** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **igmp-proxy** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ipv6 rip split-horizon** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ipv6 router rip vrf** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **immediate-leave** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ip multicast-routing** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **inactive-holdtime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **interface ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **interface** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **igp sync delay** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **igp sync interface** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **interface** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **ip vrf** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **ip vrf** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **interval** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：OAM命令 > RMON配置命令 | 模式：
+- **ipv6 multicast-routing** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ipv6 multicast-static-frr** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ipv6 multicast-static-interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ipv6 multicast-static-start** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **insegment** - 无描述
+  - 章节：MPLS配置 > MPLS通用命令 | 模式：
+- **ipv6 multicast-static-limit** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ipv6 multicast-static-route** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ip rip neighbor-restrict** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip notify default route** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip distribute-list** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip interface** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip only-send-subnet** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip receive version** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip send version** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip originate default information** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip originate default route** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip poison-reverse** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip-route esi-index** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **ipv6 link-damped bfd-down** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **ip rip authentication key** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip authentication-keychain** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip bfd** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip authentication key-chain** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip rip authentication mode** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ipv6 rip enable** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ipv6-mtu-ignore** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ispf** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ipv6 rip interface** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ipv6 rip originate-default-route** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ipv6 rip poison-reverse** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ipv6 rip neighbor** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ipv6 rip offset-list** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **ip route** - 无描述
+  - 章节：路由配置 > 静态路由配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **ip split-horizon** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **ip route nexthop** - 无描述
+  - 章节：路由配置 > 静态路由配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ipv6 router ospf** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ispf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **instance** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ipv6 address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 enable** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 enable** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 enable** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 enable** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip vrf forwarding** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip vrf forwarding** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip vrf forwarding** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip vrf forwarding** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip vrf forwarding** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv4 track** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip dhcp snooping clear interface** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping clear slot** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip access-group** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **ip dhcp snooping binding** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping database** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping quota** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping quota** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping mac-anti-spoofing disable** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping mac-anti-spoofing enable** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip access-group** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **ip access-group** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ipv6 mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **interface** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **install cleanup** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **install commit** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **install activate** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **install add** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **install deactivate** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **interface mac-address offset** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **interface mac-address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **install delete** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **interface mac-address offset** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip unnumbered** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip vrf forwarding** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip unnumbered** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip unnumbered** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip load-sharing** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip address** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ip dhcp snooping statistics clear interface** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **item** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **ip-service arp-anti-spoofing vlan** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **interface voip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **item** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **ip-service arp-anti-spoofing** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **ip-service arp-reply-agent vlan** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **ip-service mac-forced-forwarding vlan** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **ip-service arp-direct-to-gateway** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **ip-service arp-filter vlan** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **interface eth &lt;mid&gt; policing** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface eth &lt;mid&gt; policing-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface eth &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface eth &lt;mid&gt; phy-state** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface video-ani** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface video** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface pon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface pots** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **igmp log record-packet** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp log report** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp fast-leave** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp host-tracking** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp log server** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp max-groups** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp mvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp log** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp max-groups** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **ipaddress** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **igmp auto-test group-number** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **ip-service mac-forced-forwarding** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **ipv6 ns-anti-spoofing vlan** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **igmp auto-test mvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp bandwidth-control** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp bandwidth** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp auto-test start-time** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **igmp auto-test** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **ipv6 dhcp snooping clear** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping database** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping binding** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping clear slot** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping quota** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping vlan** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping quota** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ipv6 dhcp snooping statistics clear interface** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip-source-guard bind-type** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip-source-guard ip-spoofing-log** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping vlan** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip dhcp snooping** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip-source-guard ip-spoofing-trap interval** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip-source-guard** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip-source-guard** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip-source-guard ip-spoofing-trap** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **ip-source-guard port-auto-shutdown** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **igmp monitor** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **igmp monitor** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **item** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **item** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **igmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface eth &lt;mid&gt; auto-neg** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface eth &lt;mid&gt; flow-control** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface ces** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface eth &lt;mid&gt; auto-neg restart** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interface-loopdetect** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ip route** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **interval-link-detect** - 无描述
+  - 章节：产品配置 > 手拉手保护配置 | 模式：
+- **ingress-outer-tpid-filter** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **ip-pool-bind** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **item** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **item** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ip-pool** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **ip-service-map** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+
+## J (10个命令)
+
+- **join-prune-holdtime** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **join-group** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **join-prune-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **jp-max-packet-length** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **join-prune-speed** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **join-prune-holdtime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **join-group** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **join-prune-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **jp-max-packet-length** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **join-prune-speed** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+
+## K (17个命令)
+
+- **kick-off ip dhcp server user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **kick-off ipv6 dhcp relay user** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **key** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **kick-off ip dhcp relay user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **keychain** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **kompella-range-size** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **kick-off ipv6 dhcp server user** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **keepalive-period** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **key** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key meticulous-sha1** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key sha1** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key md5** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key meticulous-md5** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key simple** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **key** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+
+## L (187个命令)
+
+- **label-request** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-request ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-retention** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-withdraw-delay** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-withdraw-delay timer** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-distribution** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-advertise ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-advertise disable** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-advertise old-style** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-distribution** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **label-advertise** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ldp-debug-policy hello interface** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **lsp-dod-request ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **lsp-control** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **lsp-dod-request queue** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **lsp-policy** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **lsp-dod-request** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **longest-match** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ldp-debug-policy target-hello ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ldp-debug-policy session** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ldp-debug-policy target-hello** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ldp-over-te** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ldp-debug-policy transport connections peertransaddr** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **link-selection** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **lease-time** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **local-server** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **link-address** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **log** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **lag source** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **limit-maximum &lt;mid&gt; vlan** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **limit-maximum &lt;mid&gt; interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **limit-maximum** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **lag ipv6-source** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **linktype** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **listen-port** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **last-member-query-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **longest-match** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **last-member-query-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **label-reservation** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **longest-match** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **last-member-query-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **link-damped bfd-down** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **local inclusive-multicast auto-generate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **local-mt** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **linklsa-suppress** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **lsa-limit** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **local** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **logging** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging zip** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **line console absolute-timeout** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet absolute-timeout** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line console idle-timeout** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **logging trap-enable** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat terminal** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat savetime** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat zip** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging timestamps** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging snmp** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **line telnet access-class ipv4** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet server vrf** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet server enable** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **logout** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **local-buffer** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **life-time** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **line telnet server disable** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet dscp** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet access-class ipv6** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet idle-timeout** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet max-source-connection** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **line telnet max-link** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **logging console** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging cmdlog-timestamps** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging file default almlog** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging file default netclog** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging file default cmdlog** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging almlog-timestamps** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **login** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **language character-set** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **line netconf absolute-timeout** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **level** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **line netconf idle-timeout** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **logging file default snmplog** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat encrypt** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat description-type** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat file-size** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat password** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat ftp** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging nat buffer** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging file default weblog** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging file default srvlog** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging file** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging ftp** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **logging filesavetime** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **learn-priority move normal** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **load-optical-module-firmware** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **loop-detect** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **load digital-certificate** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **linktrap** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **lawful-intercept** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loop-detect info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **location** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **location clear** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **log** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **loid-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **loid-bind** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **loopback-detection active-detect** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection port-control** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **last-query-count** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **location** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **loopback-detection manual-detect** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection active-detect-time** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection active-detect** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection active-detect-vlan** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection eth-type** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **loopback-detection auto-recheck** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **load-sharing bandwidth** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **lock configuration** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **local-privilege-level** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **login authentication** - 无描述
+  - 章节：产品管理 > 系统配置 | 模式：
+- **load-mode** - 无描述
+  - 章节：产品管理 > 系统配置 | 模式：
+- **load boot-firmware** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **load mcu-firmware** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **load epld-firmware** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **lst-group** - 无描述
+  - 章节：产品配置 > 手拉手保护配置 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **lct** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **llid-queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **link-test** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **logging link-status** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **last-query-count** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **limit-policy forward** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **limit-policy forward vlan** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **limit-policy shutdown interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **limit-policy forward interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **lldp-tx** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **lldp-tx** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **limit-policy drop interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **limit-policy drop** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **limit-policy drop vlan** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable-action drop interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learn-priority interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning enable** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learn-priority move default** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learn-priority move lower** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learn-priority move higher** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning enable interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable-action drop** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable-action drop vlan** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable-action forward interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable-action forward** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **learning disable-action forward vlan** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **lacp port-priority** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp mode** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp restore** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp system-priority** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp sys-priority** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp minimum-member** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **last-query-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **last-query-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **lacp force-switch** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp load-balance** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp hold-off** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp timeout** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lldp** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **lldp** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **lldp** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **lldp-rx** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **lldp-rx** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **lacp fast respond** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp active limitation** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp aggregator timeout** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp backup** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **lacp alarm-to-notification** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+
+## M (234个命令)
+
+- **max-retry** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **max-hops** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **multiport** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **max-timeout** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **max-timeout** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **max-retry** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **mode** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **mst priority** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst path-cost** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst name** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst priority** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **min-echo-rx-interval** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **mst vlans** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst revision** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mode** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **metric-auto reference-bandwidth** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **monitor all-peers** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **maximum-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **metric-auto reference-bandwidth** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **max-metric** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **maximum-paths** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **maximum-paths** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **maximum-paths eibgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **maximum-paths eibgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **mac-route esi-index** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **maximum-paths eibgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **maximum-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **maximum-paths ibgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **maximum-paths eibgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **mib-compatibility lldp-mib leaf lldp-loc-rem-sys-capability** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldp-mib leaf lldp-loc-manaddr-len** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldp-mib leaf lldp-loc-chassis-id** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldp-mib leaf lldp-rem-chassis-id** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldpv2-mib leaf lldpv2-loc-chassis-id** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldpv2-mib entry lldpv2-rem-manaddr-entry** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldp-mib leaf lldp-rem-port-id** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mc-lag track** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **mc-lag sys-id** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **mc-lag roid** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **maxneighbor** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldp-mib entry lldp-rem-manaddr-entry** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldp-mib entry lldp-rem-entry** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **maxneighbor** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldpv2-mib leaf lldpv2-loc-sys-capability** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mst hmd5-digest cisco** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mode** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mcheck** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst hmd5-digest huawei** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst max-hops** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst hmd5-key huawei** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mst hmd5-key cisco** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mib-compatibility lldpv2-mib leaf lldpv2-rem-sys-capability** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldpv2-mib leaf lldpv2-rem-port-id** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **mib-compatibility lldpv2-mib leaf lldpv2-rem-chassis-id** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **msgfasttx** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **max-age** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mac-flush-fast** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **mac** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **message-digest-key** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mroute6-limit** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **mroute6-limit p-instance** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **max-host-limit group** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **mroute-downstream-limit** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **multicast-smdm** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **multicast-boundary** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **multicast-address compatible-rfc7371** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **mtrace** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **mroute-proxy** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **mroute-limit** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **multicast-boundary** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **multipath** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **multicast-ttl** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **multicast-smdm** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **multipath** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **match** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **mount** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **more** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **match** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **max-retries** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **max-retries** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **multiple-target-out tag** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **mpls ldp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **mpls label manage** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **mpls static-lsp** - 无描述
+  - 章节：MPLS配置 > MPLS通用命令 | 模式：
+- **mpls oam enable** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **mkdir** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **multi-user configure** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **mpls oam** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **mpls ldp auto-config** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp auto-config** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp auto-config** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp sync set-max-distance** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp sync** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp sync** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp sync** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **microloop-prevention remote-lfa delay-time** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **microloop-prevention remote-lfa capability** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **message-digest-key** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **microloop-prevention segment-routing mpls delay-time** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp auto-config** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **microloop-prevention segment-routing mpls enable** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **microloop-prevention segment-routing mpls disable** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls ldp sync** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mesh-group** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **max-host-limit group** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **mpls ldp sync** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **monitor-interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **mroute-limit p-instance** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **mroute-downstream-limit** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **monitor-mroute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **mtu-ignore** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mtu-ignore** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **mpls traffic-eng** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **maximum-paths** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **mpls ldp sync** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **mpls ldp sync** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **mpls ldp sync set-max-distance** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **mgmt-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mgmt-ip ipv6** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mgc-service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mgmt-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mpcp-discovery-window** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mop** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mng-snmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **max-bandwidth gpon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mac-filter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **max-bandwidth xg-pon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **me-access** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **max-onu-num** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **max-bandwidth xgs-pon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast control-type** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mvlan tag &lt;mid&gt; transparent** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mvlan tag &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mvlan tag &lt;mid&gt; strip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mvlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mng-lr vlan** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **mng-lr mapping** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **mvlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast switch** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast group-max-number** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast fastleave** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast vlan tag-strip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast-encrypt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast-encrypt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **multicast vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mpls mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **ma** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **mac acc-collection** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac acc-collection period** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **md** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **memory-threshold** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **mtu** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **mac add** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac usage-threshold** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac snap-collection** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac snap-collection period** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac vlan-aging-time** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **maccode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mac-bind** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mac limit-num** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **mac delete hash-collision-log** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac delete dynamic** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac aging-time** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac delete permanent** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac restore-threshold** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac notification-to-alarm** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mac monitor-period** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **mng-lr workmode** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **mld query-version user-compatible** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld querygemport-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld prejoin-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld router-alert** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld span-vlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld span-vlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld log server** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld log report** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld log record-packet** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld log** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld mvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld max-groups** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld max-groups** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld syslog** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mvlan-translate** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **multicast-packet** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **multicast-monitor** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mvlan-translate** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mc-lag priority** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **mc-lag mode** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **mc-lag iccp** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **mld** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld version** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld-test simulate** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **multicast data-protection** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld-test** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld-test start** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **msvxlan diaglog** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **monitor-session** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **monitor-session source** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **match-profile** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **mpnat onu-ftp** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **mode** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **match-vertag** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **media-monitor diaglog ftm_lp** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **micro_switch_control** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **mask-data** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **media-monitor diaglog** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **monitor-session destination** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **media-monitor session** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **media-monitor profile** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **mpnat onu-ftp-data** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **mld auto-test** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld auto-test start-time** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld auto-test mvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld bandwidth-control** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld host-tracking** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld fast-leave** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld bandwidth** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mpnat onu-telnet** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **mpnat onu-mng-vlan** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **mpnat onu-mng** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **max-group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **mld auto-test group-number** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **max-preview-count** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **max-group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+
+## N (571个命令)
+
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remote-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remote-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remove-private-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; remote-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw second-track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw second-track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw second-track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; monitor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; monitor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; monitor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; monitor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; monitor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; monitor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; monitor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; originate-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; originate-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; passive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; passive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; open-delay** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; originate-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; ope-type** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; passive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; port** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; peer-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; preference** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; peer-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; password** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; peer-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; open-delay** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-self** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; open-delay** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; nlri-type** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; next-hop-unchanged** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soo** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **neighbor** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; shut-down** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-ope** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; shut-down** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; shut-down** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soft-reconfiguration** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soft-reconfiguration** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soo** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soft-reconfiguration** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soft-reconfiguration** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soft-reconfiguration** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soft-reconfiguration** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; soft-reconfiguration** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **netconf reply-without-prefix** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **netconf operate-log** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **nas-identifier** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **name** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **neighbor password** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **neighbor dual-stack transport-connection prefer** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **netconf max-sessions** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **netconf agent** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **nas-identifier** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-port-format user-defined** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-port-format user-defined** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-port-id-format** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-port-id-format** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-ip-address** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-ip-address** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-ipv6-address** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **nas-ipv6-address** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **neighbor dual-stack transport-connection prefer** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **nssa** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **nsf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **neighbor** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **notify default route** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **network** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **notify default route** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **neighbor-filter** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **nsf-lifetime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **nsf-lifetime** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **nexthop** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **neighbor-filter** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **nsf** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **nexthop** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **nexthop** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw second-track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw second-track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw second-track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-policy out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw second-track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; route-reflector-client** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-local-route without-esi-reference** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-med** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-connector** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; withdraw track-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; send-community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; ttl-security-hops** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; ttl-security-hops** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; transport** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; tracking** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; transport** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; ttl-security-hops** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise diverse-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; update-source** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise diverse-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise diverse-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; additional-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; additional-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise diverse-path** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; additional-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; update-source** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise maximum-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; additional-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; update-source** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; additional-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; activate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; update-source** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **ntp multicast-client** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp multicast-client** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp multicast-server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp multicast-server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp enable** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp dns-server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp multicast-client** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp master** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp multicast-server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp source ipv6** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp source interface** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp trusted-key** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp source ipv4** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp poll-interval** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp peer** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp port** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp dns-peer** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp access-group ipv4-serve-only** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp access-group ipv4-access-list** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp access-group ipv6-serve-only** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp access-group ipv6-access-list** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **negotiation** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **nvram enable-password** - 无描述
+  - 章节：产品管理 > 系统配置 | 模式：
+- **ntp access-control serve-vrf** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **nsr** - 无描述
+  - 章节：产品管理 > NSR配置 | 模式：
+- **ntp authenticate** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp broadcast-server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp broadcast-delay** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp broadcast-server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp broadcast-server** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp broadcast-client** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp authentication-key** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp broadcast-client** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **ntp broadcast-client** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **name** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; sr-epe peer-adj ip-number** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; timers** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; timers** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; tracking** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; tracking** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; sr-epe peer-set** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; timers** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; sr-epe** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **ngpon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **name** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **notification** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **negotiation** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **name** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **name** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **name** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **next-hop** - 无描述
+  - 章节：产品配置 > 手拉手保护配置 | 模式：
+- **negotiate-fail-notify** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **negotiate-fail-notify-time** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **negotiate-fail-notify** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **negotiate-fail-notify** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **negotiate-fail-notify** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **negotiate-fail-notify** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **negotiate-fail-notify** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; description** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; description** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; description** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; ebgp-multihop** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; ebgp-multihop** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; enforce-first-as disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; enforce-first-as disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; dscp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; dscp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; ebgp-multihop** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; dscp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; cluster-id** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; virtual-spoke** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; connect-retry-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; connect-retry-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability orf prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability orf prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; change-unicast-multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability orf prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; connect-retry-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; wait-controller-arp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate all** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate all** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; default-originate all** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; enforce-first-as disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; local-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; local-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; local-as** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; maxas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; keychain** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; idle-hold-time** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; idle-hold-time** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; inherit-igp-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; idle-hold-time** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; fall-over** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; fall-over** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; fall-over** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; inherit-igp-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; keychain** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; inherit-igp-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; keychain** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; keychain** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; inherit-igp-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; inherit-igp-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; weight** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; inherit-igp-metric** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; validation-disable destination** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-rpki-state** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; validation-disable redirect** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-rpki-state** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertisement-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertisement-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; aigp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertisement-interval** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; advertise-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; validation-disable destination** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; aigp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; aigp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; allowas-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; aigp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; aigp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; aigp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; aigp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; backup** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability 4-byte-as disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; border-gateway** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability 4-byte-as disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability orf prefix-list cisco-compatible** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability enhanced-refresh disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability orf prefix-list** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability orf prefix-list cisco-compatible** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; virtual-spoke** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability 4-byte-as disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability enhanced-refresh disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; capability enhanced-refresh disable** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; virtual-spoke** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; split-update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-override** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; validation-disable redirect** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-override** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; announce-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **neighbor &lt;mid&gt; as-path-loopcheck** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+
+## O (81个命令)
+
+- **optical-module alarm-ctrl shutdown-alarm** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **optical-module alarm-profile** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **optical-module alarm-ctrl first-unplug-no-alarm** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **otdr file-ftp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **offline-alarm** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **optical-module-alarm-profile** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **optical-module** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **optical-module power-on** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **optical-module class-profile** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **optical-module power-off** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **onu-sn** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-transceiver** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-sla-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-queue-profile dba** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-queue-profile queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **otdr fast-test-action** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **otdr fast-test-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-type-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-type &lt;mid&gt; epon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-type &lt;mid&gt; gpon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **originator-id** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **override-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **older-version-querier-present** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **output-delay** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **offset-list** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **overflow mode** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **overflow mode** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **overlay-encapsulation** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **override-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **outsegment** - 无描述
+  - 章节：MPLS配置 > MPLS通用命令 | 模式：
+- **option** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **option** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **option212-6rd** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **optical-module-part-number** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **odb-switch** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **option** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **offset-list** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **option125** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **option** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **option60** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **onu-queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile h248** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile igmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile filter-rule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile dscp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile fax** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile mgcp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile schedule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile mgc** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile ims-sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **oam-fault-tolerant neg-fail-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **oam-version** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **oam-fault-tolerant anti-jitter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **overheat-protection** - 无描述
+  - 章节：产品管理 > 系统配置 | 模式：
+- **oam-access** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile classification rule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile dial-plan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile classification condition** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **omcc-bandwidth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **omcc-encrypt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile wan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-action** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile voip-vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile voip-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile voip-media** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-profile gpon line** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-profile gpon service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu-compat** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile tdm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile traffic** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile snmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile voip-accesscode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile voip-appsrv** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile treat** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **onu profile uni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+
+## P (216个命令)
+
+- **perf-vlan-clear-current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vlan-clear-current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vlan-clear-current min** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vnd0-clear-current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vnd0-clear-current min** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vnd0-clear-current day** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vlan-clear-current min** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-sport-clear-current min** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-sport-clear-current day** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-profile** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vlan-clear-current day** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-vlan-clear-current day** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-sport-clear-current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **packet-limit** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **pppoe-test service-port** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **priority** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **priority** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **periodic-lsp-ping interval** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **packet-type** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **protocol-filter** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **preview-recognition-time** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **password** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **parallel-limitation** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **port-protect** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **preview-duration** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **prejoin-group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **prejoin-group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **perf-brg-if profile** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **ptp-profile modify** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **ptp-port** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **perf-clear-current day** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-clear-current day** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-clear-current day** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **ptp-port modify** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **ptp-port add** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **ptp** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **path** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **ptp-port enable** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **ptp-port disable** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **ptp-port delete** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **perf-clear-current min** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **performance history-stat** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **performance history-stat sport** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **performance current-stat** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-profile eth-if** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **performance statistics enable** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **performance history-stat** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **performance current-stat** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-clear-current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-clear-current min** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-clear-current min** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-eth-if profile** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-clear-current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **perf-clear-current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **pim-statistics** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **pim-statistics** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **pimsm** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **peer ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **prepare new-label-range** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **propagation-delay** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **pimsm** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **pim-statistics** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **pimsm** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **pim-silent** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **pim-silent** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **pimdm-reg** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **pimdm** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **peer** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ping-udp-server** - 无描述
+  - 章节：诊断和统计 > PING命令 | 模式：
+- **ping-tcp-server** - 无描述
+  - 章节：诊断和统计 > PING命令 | 模式：
+- **ping6** - 无描述
+  - 章节：诊断和统计 > PING命令 | 模式：
+- **performance zero-unsuppress** - 无描述
+  - 章节：诊断和统计 > 性能统计显示 | 模式：
+- **performance update-interval** - 无描述
+  - 章节：诊断和统计 > 性能统计显示 | 模式：
+- **performance data-save-interval** - 无描述
+  - 章节：诊断和统计 > 性能统计显示 | 模式：
+- **ping** - 无描述
+  - 章节：诊断和统计 > PING命令 | 模式：
+- **pwd** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **privilege** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **peer** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ping** - 无描述
+  - 章节：诊断和统计 > PING命令 | 模式：
+- **pki-profile** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **params** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **preference** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **pool** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **policy** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **passive-interface** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **prefix-pool** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **prefix-lifetime** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **pcp-server** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **pkt-len** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **pkt-len** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **periodic-lsp-ping** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **proxy client leasetime** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **protect-binding** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **prefix-priority** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **password** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **proxy-service** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **proxy-enable** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **pimdm-reg** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **pimdm** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **peer** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **propagation-delay** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **passive** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **priority** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **priority** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **port** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **priority** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **prefix-priority** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **performance gemport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance gem** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance fec** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance mgc** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance iphost** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-eth-onu profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-eth-olt profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-eth-olt congestion-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance call-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-mac-onu profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-mac-olt profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance restart-current-period** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-profile onu eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-profile mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-profile eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pkt-filter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-profile onu mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-profile onu eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-profile eth-congestion** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance status** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance rtp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance xg-pon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **performance uni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **password-duration** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **password** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **power** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **pw** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **periodic** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **password-recover-remind** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **pid parameter ti** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **product manage** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **port-mode xgei-gei** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **pemode** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **pid parameter td** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **pid parameter t** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **pid parameter kp** - 无描述
+  - 章节：产品管理 > 环境监控 | 模式：
+- **para-group** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **perf-clear-current gemport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-clear-current eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-clear-current eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-clear-current onu mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-clear-current onu eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **perf-clear-current mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pppoe-snooping vlan** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **pppoe-filter max-session-number** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **pppoe-filter max-session-limit** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **priority-mark** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **pppoe-snooping echo-time-out** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **pppoe-reverse-packet-filter vlan** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **pppoe-filter** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **port-identification operator-profile** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification operator-profile** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification operator-profile vlan** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification user-defined-rid service-port** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification user-defined-cid** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification user-defined-cid service-port** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification operator-profile service-port** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification format lan** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification access-node-name** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification access-node-id-type** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification operator-profile global** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification format-profile** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification format pon** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification user-defined-rid** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **package emergence-file** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **power-sampling-period** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **power-data-collection-period** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **patch-timer-set** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **patch-param-set** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **patch-func-set** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **pppoe-intermediate-agent** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **pppoe-intermediate-agent remote-id** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **pppoe-intermediate-agent remote-id format** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **port-identification** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **pppoe-intermediate-agent vlan** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **pppoe-intermediate-agent trust true** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **pppoe-intermediate-agent trust false** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **pon-onu-mng** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon-id** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon-id** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **port-disable-looped** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **port-bw-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon-restore** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon olt rogue deallocate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon olt bwmap** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pnp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon-copy gpon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon-copy epon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pon onu bind** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **port-onu-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **protection** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **protection switch-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **protection switch-command** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pw tdm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pw psn ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **pw optional** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **protection switch-action** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **profile tcont** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **power-shedding** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **power-alarm-threshold** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **protection prop** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **protection member** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **protection dual-parenting** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+
+## Q (66个命令)
+
+- **qos trust** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **quick-ping** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **qos traffic-shaping** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos trust** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **query-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **query-max-resp** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **query-active-user-only** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **query-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **qos tc-to-cos-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos traffic-policy** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos statistics enable** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos statistics** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos traffic-shaping** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos traffic-shaping** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos traffic-policy** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos traffic-shaping** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **query-max-resp** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **query-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **query-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **querier-timeout** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **querier-timeout** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **quit** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **queue-depth** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **query-max-response-time** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **query-max-response-time** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **querier-election connect** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **querier-election disable** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **query-version** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **query-version** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **query-max-response-time** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **querier-election disable** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **querier-timeout** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **query-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **qos discard-thresh** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos discard-thresh** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos-to-tc-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos discard-thresh** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos dscp-to-cos-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos dscp-to-dscp-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos discard-thresh** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos dscp dscp-remark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos dscp-remark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos-remark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos cos-remark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos default-cos** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos-to-drop** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos-to-queue** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos-to-cos-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos cos-to-dei** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos egress-cos cos-remark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-mode service-priority** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-mode user-priority** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-mode enhanced-user-priority** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-mode pir-priority** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-shaping** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-wred-config** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-number** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-scheduler** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-conf-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-conf-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos egress-cos dscp-remark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-conf-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-conf-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-mode cir-priority** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-conf-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **qos queue-conf-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+
+## R (171个命令)
+
+- **retransmit-interval** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **router-id** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **reconnect-period** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **retransmit-interval** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **retransmit-interval** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **router ospf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **range** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **router-id** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **router igmp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **robustness-count** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **router msdp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **rp-candidate** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **router pim** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **register-probe-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **register-holdtime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **register-source** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **require-alert-options** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **register-suppression-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **reset ip bgp ipv4 unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **reset ip bgp ipv4 all** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **reset ip bgp ipv4 vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **reset ip bgp ipv6 unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **reset ip bgp ipv6 all** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **reset ip bgp ipv6 vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **range** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **router rip** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **resync-timeout** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **resync-timeout** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **route-mode** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **reset ip bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **router bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **router-id** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **rp-proxy** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **retry-count** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **rmon** - 无描述
+  - 章节：OAM命令 > RMON配置命令 | 模式：
+- **radius accounting-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius attribute vendor-specific vendor-id** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius accounting-off** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **rmon alarm** - 无描述
+  - 章节：OAM命令 > RMON配置命令 | 模式：
+- **rmdir** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **rmon collection history** - 无描述
+  - 章节：OAM命令 > RMON配置命令 | 模式：
+- **rmon event** - 无描述
+  - 章节：OAM命令 > RMON配置命令 | 模式：
+- **rmon collection statistics** - 无描述
+  - 章节：OAM命令 > RMON配置命令 | 模式：
+- **radius authentication-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius-ping accounting-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius server-port-check** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius-ping authentication-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **retransmit retries** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **renegotiate** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **radius client-group-default** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius client-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius dev-backup** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius listening-port authentication** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **radius listening-port accounting** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **robustness-count** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **require-alert-options** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **robustness-count** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **router mld** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **router mld** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **register-holdtime** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **rp-smart** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **register-probe-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **register-suppression-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **register-source** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **router pim** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **reset mpls ldp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **redundancy interchassis peer-mode standard** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **router-id** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **rename** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **read-config** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **rp-candidate** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **router pim** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **rp-proxy** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **redundancy interchassis group** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **rp-smart** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **remote-unit cfg-bind** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **remote-unit activate** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **remote-unit commit** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **remote-unit update** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **remote-unit task** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **resource-profile** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **resource** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **redirect** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **remote-unit abort** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **range** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **remote-unit update-and-reboot** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **router-ip** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **robustness** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **router-ip** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **ramble** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **reinitdelay** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **remote-unit update-reonline** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **remote-unit update-commit** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **receive-port** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **robustness** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **receive-port** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **reboot** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **retry-link-detect** - 无描述
+  - 章节：产品配置 > 手拉手保护配置 | 模式：
+- **reboot** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **reset** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **register sip-port** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **reload system** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **redundancy switch sc** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **rootuser password** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **rule** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **revert interface** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **reset** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **rogue-onu-detect olt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **rms** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **rogue-onu-detect-param** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **reload-blade slot** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **rxpower-threshold** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **restore factory** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **resource-id-assign-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **restore factory-settings** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **restore** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **restore wifi** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **relay agent index** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay intfid-format** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay interface-id** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay max-user** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay policy** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay policy** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **rule** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **request** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **ramble** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay forward mode** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay agent** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay remote-id** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **rpki-validation** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **rpki-validation allow-invalid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute isis-1-2** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **redistribute** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **relay source-ip** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **relay server group** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **rpki-rtr polling-period** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **rpki-validation allow-invalid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **rpki-rtr** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **relay online-user forward to server source-ip** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay online-user forward to server source-ip** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 circuit-id** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 option** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 format** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay forbid send release** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay agent** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay forward mode** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay max-user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay forward reply unrestricted** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay source-ip** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay server group** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay source-ip** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay-agent** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay update arp** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 uniform circuit-id** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 remote-id** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 uniform remote-id** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay report user-info** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **relay option82 user-configuration policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+
+## S (1886个命令)
+
+- **show bgp vpnv6 unicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn in detail sequence** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn detail sequence** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state vpn route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state detail link ospf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state detail node isis** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state detail node ospf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state detail link isis** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn vpls flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn vpls route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn vpls summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state detail sequence** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp link-state in detail sequence** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec rd &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec rd &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec rd &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec vrf &lt;mid&gt; detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast rd &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec vrf &lt;mid&gt; route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp rpki-rtr roa ipv6** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp sr-epe** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp rpki-rtr roa ipv4** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp rpki-rtr all summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast policy route-map &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp rpki-rtr neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast policy route-map &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 flowspec in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route mac** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route mac detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route ethernet-ad** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route inclusive-multicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route inclusive-multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn received prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route ethernet-ad detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn local prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-vrf &lt;mid&gt; route ethernet-ad** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac-vrf &lt;mid&gt; route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn mac neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini protocol routing summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn martini neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella protocol routing summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella protocol routing** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn kompella neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; local prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; received prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast rd &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast rd &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast received prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast rd &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast policy route-map &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast policy route-map &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec rd &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec rd &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec rd &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec vrf &lt;mid&gt; detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf policy route-map &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf &lt;mid&gt; route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast vrf policy route-map &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 flowspec detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast rd &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast rd &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast rd &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast rd &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast rd &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast local** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast sync-detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 mcast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast local prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 unicast community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv4 multicast vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-vrf &lt;mid&gt; route ethernet-ad detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast color-lsp detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast color-lsp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 sr-policy community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast received prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast policy route-map &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast policy route-map &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast rpki-state** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast local prefix-filter** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 unicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp bmp summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **synchronization** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **synchronization** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 flowspec in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **statistics-timer** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 route-target detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 neighbor keepalive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 neighbor keepalive vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 mdt** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv4 multicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn es-vrf route ethernet-segment detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-ad detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-ad in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-ad** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-segment detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-ad neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-ad in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-ad labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-ad neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor vrf-route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor vrf-out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor vrf-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast rpki-state** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast policy route-map &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast policy route-map &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-prefix neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-prefix** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-prefix neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-prefix in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-prefix in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-prefix labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ipv6-vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-vrf &lt;mid&gt; route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-vrf &lt;mid&gt; route detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ipv6-vrf &lt;mid&gt; route ethernet-ad** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ipv6-vrf &lt;mid&gt; route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ipv6-vrf &lt;mid&gt; route detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ipv6-vrf &lt;mid&gt; route ethernet-ad detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ip-prefix detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn inclusive-multicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-segment neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-segment neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn ethernet-segment** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn inclusive-multicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn inclusive-multicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn inclusive-multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn inclusive-multicast labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn inclusive-multicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp l2vpn evpn inclusive-multicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast neighbor vrf-out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast neighbor vrf-route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast neighbor vrf-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 neighbor keepalive vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 neighbor keepalive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 flowspec** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 multicast community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast color-lsp detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast color-lsp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 unicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast vrf &lt;mid&gt; update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp ipv6 sr-policy neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show startup-config** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show this** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **startrun backup-to server** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show startup-config failed** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show running-config** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show running-config-interface** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show startrun-backup history** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show netconf agent** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **show netconf sessions** - 无描述
+  - 章节：OAM命令 > NETCONF配置命令 | 模式：
+- **show snetconf server** - 无描述
+  - 章节：OAM命令 > SNETCONF配置命令 | 模式：
+- **show filesystem** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **startrun download** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show debug ftp** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **show ftp-server** - 无描述
+  - 章节：OAM命令 > FTP配置命令 | 模式：
+- **show read-config failed** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show vxlan tunnel** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **save running-config** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **set debug-timer** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show vxlan statistics** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **show pwe3 signal service-aware tdm** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show pwe3 signal statistics** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show pwe3 signal** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show multi-user configure** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show privilege** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show privilege** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show debug-timer** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show auto-write** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show cmdgroup** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **show debug** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **sftp-client source-ip ipv4** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **sftp-client source-ip ipv6** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **sftp-server access-class** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **sftp-client source-interface** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **syslog-server host** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **syslog-server source** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show rmon** - 无描述
+  - 章节：OAM命令 > RMON配置命令 | 模式：
+- **show snmp config** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **show snmp engine-id** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **show snmp group** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **security-protocol** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **sftp-server idle-timeout** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **sftp-server top-directory** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **show sftp-server** - 无描述
+  - 章节：OAM命令 > SFTP配置命令 | 模式：
+- **syslog-server facility-mapping** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show alarm** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show logfile** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show logging alarm** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show alarm level-change** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **snetconf server port** - 无描述
+  - 章节：OAM命令 > SNETCONF配置命令 | 模式：
+- **snetconf server** - 无描述
+  - 章节：OAM命令 > SNETCONF配置命令 | 模式：
+- **show alarm class** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **syslog hostname-field** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **syslog level** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **syslog-server facility** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show logging service** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show logging buffer** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show logging configuration** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show logging directory** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **show pwe3 signal service-aware fr** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show debug ldp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show error packet ldp statistics** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show error packet ldp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **session protection** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **srgb-label-range** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **srlb-label-range** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **static-label-range** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **show mpls ldp discovery** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp graceful-restart** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp iccp** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp debug-policy** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp backoff** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp bindings summary** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp bindings** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls label usage** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **ssm-map static** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **startup-query-count** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **startup-query-interval** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ssm-map static** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **spt-threshold** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ssm range** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **ssm range** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show mpls label manage** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **show mpls label manage-mode** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **show mpls label usage detail** - 无描述
+  - 章节：MPLS配置 > 标签管理命令 | 模式：
+- **static-rp** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **static-first** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **static-group** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **static-rp override** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **statistics ffd** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics ffd** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics fdi** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics cv** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics cv** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics fdi** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **show pwe3 signal fec129** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show pwe3 signal mspw** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show pwe3 signal service-aware atm** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show pwe3 signal fec129 detail** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show debug pwe3** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show pwe3 signal fec128 detail** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **show pwe3 signal fec128** - 无描述
+  - 章节：MPLS配置 > PWE3命令 | 模式：
+- **statistics bdi** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **show mpls ldp log neighbor-down** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp neighbor** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp parameters** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp log hello-down** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp igp sync** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp instance statistic** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show mpls ldp interface** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **statistics all** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics all** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **statistics bdi** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **show mpls oam** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **show mpls ldp traffic-count** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **style** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **show debug mpls-oam** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **show snmp security** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **show radius-attribute** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius-resource** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius-server accounting-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius-attribute type** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius counter** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius listening-port** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius-attribute name** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show ssh server authentication-info** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **show ssh server host-key** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **show ssh server public-key brief** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **standby** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius-server all** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show radius-server authentication-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **source-ip** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show debug radius** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show accounting local-buffer user** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius accounting-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius all** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show accounting local-buffer sum** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show accounting local-buffer all** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show accounting local-buffer group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show accounting local-buffer session** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius client-group group-name** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius dev-backup** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius server-port-check** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius client-group brief** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius attribute** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius authentication-group** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **show configuration radius client-group all** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **ssl** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **server6** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **server** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **show ssl context** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **ssh server version** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server vrf** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **session timeout** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **show tacplus group-server** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **show ping server** - 无描述
+  - 章节：诊断和统计 > PING命令 | 模式：
+- **show performance data-save-interval** - 无描述
+  - 章节：诊断和统计 > 性能统计显示 | 模式：
+- **show tacacs-server** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **show debug tacplus** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **show tacacs global-config** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **show tacacs-server6** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **ssh server username** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server diffie-hellman** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server disable** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server dscp** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server access-class ipv6** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **show ssh server public-key keyname** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **show ssh** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server access-class ipv4** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server host-key** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server public-key keyname** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server rekey-interval** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server hmac** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server enable** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server encryption** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **ssh server generate-key** - 无描述
+  - 章节：安全配置 > SSH配置命令 | 模式：
+- **set-dscp-outer** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **snmp-server input-limit** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server listen-port** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server log** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server inform** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server group** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server host domain** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server host** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server packetsize** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server proxy-forwarder** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server proxy-forwarding-entry** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server notify filter-profile** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server notification listen-port** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server notify entry** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server notify filter** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server get-next-cache age** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server access-list ipv6** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server command-responser** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server community** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server access-list ipv4** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **show snmp user** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **show snmp** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **single-target-out** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server enable inform** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server enable trap** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server engine-id** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server context-map** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server community-map** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server community-map-entry** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server context** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **ssh** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **ssh6** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **switch virtual-network-device** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **show users** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **show history** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **show hotkey** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **show terminal** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **server** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **server6** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **set-dscp-outer** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **server6** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **send-rate-limit** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **send-rate-limit** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **server** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **source-addr** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server security static-trust-user** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server target-address-entry** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server target-params-entry** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server security on-failure** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server security block** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server security dynamic-trust-user clear** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server security dynamic-trust-user idle-timeout** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server vacm view-tree-family** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server version** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server view** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server vacm security-group** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server trap-source** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server usm-user** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **snmp-server vacm access** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **spt-threshold** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show isis fast-reroute-topology ti-lfa** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis hostname** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis hostname** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis database purge statistics** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis circuits no-adjacency** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis database log** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis database purge statistics** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show error packet rip statistics** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show error packet rip** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip database vrf** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show debug rip** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show isis ipv4 route** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis ipv6 fast-reroute-topology ti-lfa** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis ipv6 route** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show isis adjacency log** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show ip bgp neighbor vpnv4-out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **segment-routing mpls disable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **segment-routing mpls disable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show ip bgp neighbor vpnv4-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **segment-routing mpls entropy-label enable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **segment-routing mpls entropy-label enable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **segment-routing srv6 enable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **segment-routing mpls entropy-label disable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **segment-routing mpls enable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **segment-routing mpls enable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **segment-routing mpls entropy-label disable** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **show ip ospf database network** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database nssa** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database opaque-area** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database external** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf border-routers** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database asbr-summary** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database database-summary** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf interface** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf mpls** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database summary** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database opaque-as** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database opaque-link** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf database router** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf border-lfas** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip rip networks vrf** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip networks** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip statistics** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip neighbors** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip database** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip interface** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip neighbors vrf** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **sham-link** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show debug ospf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show error packet ospfv2** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **sequence-backup** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip rip vrf** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip rip** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **show ip route vpn** - 无描述
+  - 章节：路由配置 > VRF命令 | 模式：
+- **show ip bgp neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; in route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; route-filter-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; route community** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast in route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast local** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast sync-detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; in detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 mcast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp labels per-nexthop** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp labels** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp labels per-nexthop** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp flap-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp global vrf &lt;mid&gt; srv6-end-sid** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor keepalive vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor keepalive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor keepalive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor keepalive vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast neighbor route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show debug bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show error packet bgp detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf policy route-map &lt;mid&gt; neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf &lt;mid&gt; update-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 unicast vrf policy route-map &lt;mid&gt; neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast neighbor in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp dampening-parameters** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast neighbor out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp dampened-paths** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show error packet bgp statistics detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show error packet bgp statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show error packet bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip ospf neighbor** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **ssm enable** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ssm range** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **ssm-map static** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **spt-threshold** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim statistics** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim traffic** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **static-rp override** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **static-rp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show debug mld** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **static-group** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **startup-query-count** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **startup-query-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **static-first** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim rp mapping** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim bfd** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim bsr** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim interface brief** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip multicast-static-route** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip msdp sa-cache** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip msdp summary** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip multicast-static-interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim neighbor** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim nexthop** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim rp hash** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim mroute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim mroute summary all-instance** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip pim mroute summary** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ipv6 pim interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim mroute summary all-instance** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim mroute summary** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim interface no-neighbor** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim bfd** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim bsr** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim interface brief** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim rp mapping** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim statistics** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim traffic** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim rp hash** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim mroute** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim neighbor** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 pim nexthop** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 multicast-static-route** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mld groups summary** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mld groups** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mld interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show error packet ipv6 pim** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show debug mroute6** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show debug pim6** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show error packet ipv6 pim statistics** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mroute summary** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mroute** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 multicast-static-interface** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mroute summary all-instance** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mld packet-count** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mroute brief** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ipv6 mroute nexthop** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **show ip msdp peer** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ipv6 ospf retransmission-list** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf route** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf vertex** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf request-list** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf database** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf interface** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf neighbor** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **summary-prefix** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show debug ripng** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **show error packet ripng statistics** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **stub** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf virtual-links** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ipv6 ospf** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **snmp context** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show error packet ospfv3** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **show ip ospf sham-links** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf vertex backup** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf virtual-links** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf route** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf nsf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf request-list** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf retransmission-list** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **stub-host** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **summary-address** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show debug ospfv3** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **stub** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip ospf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **snmp context** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **static-remote-lfa mpls-ldp** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **show ip igmp groups** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip igmp interface** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip igmp packet-count** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip igmp groups summary** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show debug pim** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show error packet pim statistics** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show error packet pim** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip mroute summary** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip mroute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip msdp count** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip mroute summary all-instance** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip igmp proxy groups** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip mroute brief** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ip mroute nexthop** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show debug msdp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **summary-prefix** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **sa-advertisement-period** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **sa-cache-holdtime** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show ipv6 rip** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **show error packet ripng** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **show ipv6 rip database** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **show ipv6 rip interface** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **set-dscp-outer** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show debug igmp** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show debug mroute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **select-mroute** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **sa-filter in** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **sa-filter out** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **sa-limit** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **show gpon onu distance** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu gemport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile dial-plan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu detail-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu baseinfo** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu by** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu config-fail** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile mgc** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile schedule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile dscp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile filter-rule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile igmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon olt config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip rtp-tid information local** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip rtp-tid information remote** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip sip-user-information** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip pppoe information** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip ip-address** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip mg-domainname** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip performance** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon global config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon loid-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon mop mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip-module profile-application** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip user-tid information local** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip user-tid information remote** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip-module operate-status** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu dhcp-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu dhcp-option60** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu equip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu cfm mep** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu capability** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu cfm ma** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu cfm md** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ex-vlan-table veip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ex-vlan-table wifi** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu firewall ip-filter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ex-vlan-table ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ex-vlan ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ex-vlan veip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ex-vlan wifi** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu call-record** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile voip-accesscode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile voip-appsrv** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile treat** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile snmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile tdm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile traffic** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu broadcast-limit cpu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu broadcast-limit ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu vport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu profile voip-media** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu state** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon onu tcont** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu voip attribute** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu alarm onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu alarm pon-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu alarm uni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu-sla-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu state** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu vport-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu classification** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu config-counter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu dba** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu auto-config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu alarm-threshold onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu alarm-threshold pon-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu alarm-threshold uni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu sla** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile fax** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile h248** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile ims-sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile classification rule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu detail-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu mpcpinfo** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile classification condition** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile voip-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile voip-vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile wan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile uni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile mgcp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile onu-queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu profile sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu rms** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu test-result call** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu test-result ipoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu port info voip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu port mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu pots status** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu transceiver info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu uni-mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu transceiver alarm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu test-result iptv** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu test-result pppoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu transceiver alarm thresholds** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu port info eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu loopdetect** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu mgmt-ip ipv6** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu llid-queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu fastleave** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu holdover** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu performance monitoring history-data** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu performance monitoring status** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu port auto-neg** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu performance monitoring current-data** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu mgmt-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu mng-snmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon remote-onu multicast-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu firewall** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show onu-type-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show perf-eth-olt congestion-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show perf-eth-olt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show onu-type** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show ngpon group** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show ngpon onu state** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show onu-compat** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show performance pon-olt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show performance pon-onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon alarm anti-jitter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show performance gemport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show perf-eth-onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show perf-mac-olt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show perf-mac-onu** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon slot config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu tr069-mgmt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu veip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu vlan translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu test-result pppoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu test-result iptv** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu test-result mep** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu test-result potsuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu wan ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu wan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu wan-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu voip-linestatus** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu voip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu voip-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon power olt-rx** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon power olt-tx** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon power onu-rx** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon power attenuation** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon onu uncfg** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon onu-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon otdr fast-test-if** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon rogue-onu-info-his** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon transceiver-thresh** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon uncfg-onu-display-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon rogue-onu-info-cur** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon power onu-tx** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon remote-onu transceiver** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon rogue-onu-detect detail** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon onu onu-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon debug-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon global config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon ip-pool-bind** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon channel** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon alarm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon bandwidth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon blacklist** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon onu information** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon onu offline information** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon onu online failure** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon olt config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon ip-pool** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon location** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show pon log** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu test-result ipoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu lct** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu loop-detect info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu loop-detect** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ipv6-host** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ipv6-host current-dns** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ipv6-host current-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ipv6-host current-onlink-prefix** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu mvlan port** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu mvlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance call-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu mgmt-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu mac** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu mac-filter ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu mgc-service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ipv6-host current-def-router** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu igmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu interface ces** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu interface eth** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu igmp monitor** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu gemport down-queue** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu gemport loop** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu gemport traffic-limit** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ip route** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ip-host** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu ip-service-map** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu interface video** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu interface pon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu interface pots** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu interface video-ani** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu security-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu security-mgmt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu schedule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu power-shedding** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu pw** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu schedule tcont** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu sys-attr** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu test-result call** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu test-result iphost** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu switchport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu sip-service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu snmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu switch** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu pkt-filter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance fec** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance gem** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance interval ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance continuous ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance continuous gem** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance continuous veip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance rtp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance sip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance xg-pon** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance mgc** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance interval gem** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance interval veip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show gpon remote-onu performance iphost** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu config-fail** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **switch attribute** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **switch attribute** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **switch attribute** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show para-group** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show real-acl drv-status** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show real-acl** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show para-group-bound** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show acl drv-status** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show acl icmpv6-drv-entries-num** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show acl** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show ipv6 interface** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show logicinterface summary** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show pw** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **shutdown** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show ipv6 dhcp snooping dynamic port** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ipv6 dhcp snooping global** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ipv6 dhcp snooping port quota** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ipv6 dhcp snooping dynamic port statistics** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip-source-guard** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ipv6 dhcp snooping dynamic database** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ipv6 dhcp snooping dynamic ipv6** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **set rmep &lt;mid&gt; state** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show cfm dm-result** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show cfm lm-result** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; two-way-fd-bin** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show ipv6 dhcp snooping vlan** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **set mep &lt;mid&gt; priority** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; state** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show ip-source-guard user** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip dhcp snooping dynamic port statistics** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip dhcp snooping dynamic port** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip dhcp snooping global** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip dhcp snooping dynamic ip** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show time-range-acl** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show access-list bound** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **show ip dhcp snooping dynamic database** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip-source-guard ipv6-user** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip-source-guard port-auto-shutdown** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip-source-guard port** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip-source-guard ip-spoofing-log** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip dhcp snooping mac-anti-spoofing vlan** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip dhcp snooping port quota** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ip dhcp snooping vlan** - 无描述
+  - 章节：产品配置 > DHCP Snooping和IP Source Guard | 模式：
+- **show ipv6 interface brief** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show virtual-network-device** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **show vlan-allocate** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **sftp top-directory** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show software** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **speed** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **speed** - 无描述
+  - 章节：产品管理 > 接口配置 | 模式：
+- **show install** - 无描述
+  - 章节：产品管理 > 版本管理 | 模式：
+- **show login state** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show login** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show password-dictionary** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show login failure** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show authen-restriction** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show local-user level** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show local-user state** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show memory-threshold** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show synchronization** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show temperature detail** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show temperature environment-threshold** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show synchronization detail** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show pid parameter** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show power** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show processor** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show hostname** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show load-mode** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show login authentication** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show holdtime** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show cpuload-threshold** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show fan strategy** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show fan** - 无描述
+  - 章节：产品管理 > 基本配置 | 模式：
+- **show lock configuration** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **show debug ntp** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **show ntp associations** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **show configure exclusive** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **show configuration commit changes** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **show configuration commit list** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **show configuration trial status** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **show interface description** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show ip interface brief** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show ip interface** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show interface brief** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **show ntp status** - 无描述
+  - 章节：运行支撑 > NTP配置 | 模式：
+- **show debug time-range** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **show time-range** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **show clock** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **strong-password check** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **strong-password date-check** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **strong-password max-length** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show username** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show rootuser** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show strong-password-info** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show user-group** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show clock detail** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **show clock sync-source** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **show clock** - 无描述
+  - 章节：运行支撑 > 时钟模块管理 | 模式：
+- **system-user** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **strong-password username-related-chk** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **strong-password** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **strong-username** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **show cfm ma** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show qos global** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos interface** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos queue-conf-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos flow-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos dscp-to-dscp-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos flow-group** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos flow-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos tc-to-cos-profile driver-status slot** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos tc-to-cos-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos tc-to-cos-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos statistics interface** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos queue-conf-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos queue-shaping** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos queue-wred-config** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos dscp-to-dscp-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-dei-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-dei-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-drop-config** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-dei-profile driver-status slot** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-cos-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-cos-profile vlan** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-cos-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos dscp-to-cos-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos dscp-to-cos-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos dscp-to-dscp-profile driver-status slot** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos dscp-to-cos-profile driver-status slot** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-tc-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos cos-to-tc-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos discard-thresh interface** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show epon auto-dispatch-set** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon custom-oam** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon dba** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **security-ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **security-mgmt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon olt mpcp-discovery-window** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu by** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon onu config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon olt encrypt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon ems-report** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon oam-fault-tolerant** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show epon olt config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **schedule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show qos traffic-shaping** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show virtual-mac configure vlan** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **show virtual-mac configure** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **show qos traffic-profile** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos traffic-control** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos traffic-policy interface** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show qos traffic-profile name** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **schedule tcont** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **schedule tcont** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **schedule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **scb-port** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show virtual-mac flexible-syntax-profile** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **show virtual-mac table** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **safety-speed** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show qos cos-to-cos-profile driver-status slot** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show eth-switch l2cp-brief** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show eth-switch l2cp** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show eth-switch l2cp-default** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show env-switch out-port** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **service-port** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show env-switch device** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show env-switch in-port** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show mac hash-collision** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show mac monitor-info** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show mac** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show mac collection** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show eth-switch max-frame-length** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show eth-switch stormcontrol** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show mac aging-time** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **sai** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **set ccminterval** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set cfm** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; ais interval** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show cfm status** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show cfm md** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show cfm mep-stat** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show cfm mp** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; dmm** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; lmm** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; one-way-ifdv-bin** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; client-level** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; ais state** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; alarm-lowest-pri** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **set mep &lt;mid&gt; ccm-send** - 无描述
+  - 章节：产品配置 > EOAM配置 | 模式：
+- **show ecmp-mode** - 无描述
+  - 章节：产品配置 > L3命令 | 模式：
+- **show lst** - 无描述
+  - 章节：产品配置 > 手拉手保护配置 | 模式：
+- **show pppoe-filter max-session-limit** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **switchport vlan** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **switchport tls vlan** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **switchport tls** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **switchport translate** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **snooping-aging-time** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **show ingress-outer-tpid-filter config** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show priority-mark** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **show pppoe-snooping information-table** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **show pppoe-intermediate-agent vlan all** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **show pppoe-reverse-packet-filter vlan** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **show pppoe-snooping configure vlan** - 无描述
+  - 章节：产品配置 > PPPoE Filter | 模式：
+- **switchport mode** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan tpid** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan translate** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan-connect detail** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan summary** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show sai-configure** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show service-port interface** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan port** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **switchport default vlan** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **switchport egress-outer-tpid** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **switchport ingress-outer-tpid-filter** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **switchport default cvlan** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan-connect summary** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show vlan-mark** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **show power-alarm-threshold** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **source-port** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **ssm-address-range** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **ssm-address-range** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **source-port** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **snooping-aging-time** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **source-filter-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **source-filter-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **static-port** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **static-port** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show digital-certificate** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **startup-query-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **startup-query-count** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **startup-query-count** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **startup-query-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show serdes-state slotno** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld span-vlan config** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld static-member** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld prejoin-group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld mvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld np-statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld pon-statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show multicast-monitor** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mvlan-translate interface** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mvlan-translate** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show multicast data-protection** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld-test detail** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld-test** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mac count** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show mac higig-learn** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show mac learning interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **safe-mode interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show lldp neighbor** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **show lldp statistic** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **safe-mode all** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show mac move-dampening vlan** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show mac table** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show debug spantree** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show mac limit-maximum** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show mac learning** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show mac limit-maximum interface** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show mac limit-maximum vlan** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **show lldp entry** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **show traffic-mirror** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show traffic-stat-enable** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show traffic-stat-value** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show traffic-limit** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show interface** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show ip dhcp filter-vlan** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show resource** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **smartgroup** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **show debug lldp** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **show lldp config** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **show lacp** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **show updateepld** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show veth-connet** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **show debug lacp** - 无描述
+  - 章节：L2业务 > LACP配置命令 | 模式：
+- **show mld mp-statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show remote-unit information** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **show remote-unit summary-of** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **show remote-unit task** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **show remote-unit cfg-file-status** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **show redirect** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **service-type** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **show mpnat** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **show igmp forwarding-table** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp interface** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp log server** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp dynamic-member** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show remote-unit update-status** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **show igmp auto-test config** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp auto-test status** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show quick-ping config** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor diaglog** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor profile name** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor profile** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor diaglog status** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show loopback-detection slot** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor brief** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor detail** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show msvxlan diaglog** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show pppoe-test interface** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show pppoe-test** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show msvxlan diaglog info** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor statistics** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show media-monitor** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show monitor session** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show iptv preview-profile** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld auto-test config** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld auto-test status** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show iptv preview** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show iptv global-info** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show iptv interface** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show iptv package** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld log** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld mp-forwarding-table** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld mp-snooping** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld log server** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld dynamic-member** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld forwarding-table** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show mld interface** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show iptv channel** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp mvlan** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp np-statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp pon-statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp mp-statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp log** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp mp-forwarding-table** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp mp-snooping** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp-test detail** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp-test** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp statistics** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp prejoin-group** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp span-vlan config** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show igmp static-member** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **show debug** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show ip protocol routing** - 无描述
+  - 章节：路由配置 > 路由基础命令 | 模式：
+- **show bgp vpnv6 multicast neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip protocol routing capability** - 无描述
+  - 章节：路由配置 > 路由基础命令 | 模式：
+- **show ip domain** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **show ip host** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **show debug ipv4-route** - 无描述
+  - 章节：路由配置 > 路由基础命令 | 模式：
+- **send-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **send-label** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor vrf-route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor vrf-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor vrf-in** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor vrf-out** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip domain url** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **server single-user-quota** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **server** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **server-unicast-address** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **server rapid-redial** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **suppress-nak** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **server max-user** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **server policy** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **show debug dns** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **show ip domain dynamic-server** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **show ip domain snoop** - 无描述
+  - 章节：L3业务 > DNS配置命令 | 模式：
+- **show ipv6 dhcp server user** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **show debug dhcpv6** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **show ipv6 dhcp relay user** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **show ipv6 dhcp relay user-statistics** - 无描述
+  - 章节：L3业务 > DHCPv6配置命令 | 模式：
+- **show ip bgp protocol** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp bmp monitor-peer** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp route detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp protocol vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all protocol** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp protocol vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp bmp session** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp route network** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp bmp monitor-route** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp route detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp bmp session vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all protocol vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp peer-group ipv6 vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all neighbor keepalive** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp peer-group vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all flap summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all down-reason summary** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp peer-group ipv6 vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp process brief** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all neighbor** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp process detail** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all neighbor vrf** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp vpnv6 multicast route-statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show bgp all neighbor statistics** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip bgp peer-group** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **show ip dhcp server user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show bfd neighbors deleting** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors ip brief** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors ip detail** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors dampen** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd global-parameters** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors all brief** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors all detail** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors local-disc** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors parameters local-disc** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors pw brief** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors ldp detail** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors lag brief** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors lag detail** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors ldp brief** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd dampen-parameters** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show spantree interface** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show spantree mst-config** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show spantree statistics** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show spantree instance** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show error packet spantree detail** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show error packet spantree statistics** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **show spantree inconsistentports** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **session &lt;mid&gt; peer-bfd** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **session &lt;mid&gt; pw-bfd** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd administrative-status** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **session &lt;mid&gt; link-bfd** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show spantree transparent** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **spantree** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **session &lt;mid&gt; ldp-bfd** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show ip dhcp configuration** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp packet statistic** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp client user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **server** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **server-group** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show debug dhcp** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp relay server group** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp relay server policy** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp relay user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp relay information** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp pool** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp proxy client** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show ip dhcp relay dead server** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **server update arp** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show bfd neighbors rsvp passive detail** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd statistics** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show debug bfd** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors rsvp passive brief** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors pw detail** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors rsvp lsp brief** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show bfd neighbors rsvp lsp detail** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **server relay destination udp port** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **server reply to relay source-ip** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **server reply-nak kick-user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **server max-user** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **show error packet bfd** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **single-arm-echo** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **suppress** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **show loopback-detection interface** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **set-pnp** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show backboard** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show card** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **set-phyinfo** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show resource-profile brief** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **show resource-profile name** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **show vnd-resource** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **show pnp** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show-basemac** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **shutdown** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show odb-switch** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show equipment** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show hardware-state** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show mac system** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **show vgw-bypass mode** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show blade-ifconfig** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show blade-manage** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show vgw gateway** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show serdes-for-power** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show power-data-collection-period** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show power-sampling-period** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show safety-speed** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show vgw-bypass acl-apply** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show vgw-bypass acl** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show vgw-bypass brief** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show vgw vlan summary** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show vgw host** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show vgw host-gateway** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show vgw user** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **show time ptp-profile name** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time status** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time time-output** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time ptp-profile brief** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time ptp-port-cfg** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time ptp-profile active** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time ptp-profile all** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show interface-vnd0** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show perf-brg-if-profile** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show perf-eth-if-profile name** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show his-performance** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **source** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **ssm-send** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **ssm-set** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time ptp-packets-statistics** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show clock config** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show clock interface esmc** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show clock interface ssm-send** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show card-clock** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **shutdown** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **speed** - 无描述
+  - 章节：产品配置 > 设备管理 | 模式：
+- **set** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time alarm threshold** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time compensation** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time ptp-grandmaster** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show time 1pps-tod** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show clock output** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show clock source active** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show clock source alarm** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **show fan-amend** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **sn format** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **sn-bind update-sn** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **sn-bind** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **sla-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **sip-service-en** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **sla** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **sla-profile** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **switch** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **switch** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **switchport ethuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **switch** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **snmp** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **speed** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **splitter** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **sip-service** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show vnd max-onu-number** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show vnd port config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon dba** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show vnd auth-onu-rule** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show protection dual-parenting** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show protection group information** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show protection group list** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon onu dba** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon trouble-shooting-result auto-recover-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon trouble-shooting-result** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon onu bind** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon olt bwmap record** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon olt bwmap** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show-pon olt rogue linkid** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show optical-module-plug-record** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show optical-module-reserved-class** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **specified-module-class** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show optical-module-light-status** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show optical-module-class-profile** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show optical-module-firmware** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show optical-module-info** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **system-energy-saving** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **set-serdes-for-power** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **set-serdes-for-temp** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **speed-stepless** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show serdes-for-temp** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show system-energy-saving-detail** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show system-energy-saving-mode** - 无描述
+  - 章节：产品配置 > 环境监控 | 模式：
+- **show optical-module-alarm-profile** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show port-identification format-profile** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show port-identification global** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show port-identification operator-profile apply-info** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show dhcpv6-l2-relay-mode global** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **switchport veip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **show dhcpv4-l2-relay-agent vlan all** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show dhcpv6-l2-relay-agent vlan all** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show port-identification port** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show optical-als-info** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show optical-module-alarm-ctrl** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **show port-identification operator-profile** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show port-identification operator-profile global** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show port-identification operator-profile port** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show port-identification operator-profile vlan** - 无描述
+  - 章节：产品配置 > 端口定位 | 模式：
+- **show perf-eth-if-profile** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **security mac-bind** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security mac-filter** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security mac-move-permit vlan** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security mac-anti-spoofing** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **snatch-cpu-packet mp** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **snatch-cpu-packet slot** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security mac-anti-spoofing** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security port-protect** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security storm-control** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security storm-control** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security packet-limit** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security mac-move-report interval** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security mac-move-report** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security max-mac-learn** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **snatch-cpu-packet circulate** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack ipv4-blacklist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack ipv4-whitelist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack ipv6-blacklist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack diaglog** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel tcp-stateful connections** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel tcp-stateful statictis** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack config** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-dos config** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-dos diaglog** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security DSV** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-dos black-list** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack ipv6-whitelist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack mac-blacklist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security anti-attack mac-whitelist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show security mac-move-log** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security port-protect** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security usercommunication-control** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security mac-anti-spoofing port** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security interface storm-control** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security interface vlan-stormcontrol** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security mac-anti-spoofing configuration** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show lawful-intercept** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show loopback-detection global** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show loopback-detection information** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show diaglog register** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show security user-communication** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show card-exception** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show diaglog configure** - 无描述
+  - 章节：产品配置 > 诊断和检测 | 模式：
+- **show security interface port-protect** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show ip-service arp-direct-to-gateway-config** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show ip-service arp-filter** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show ip-service arp-reply-agent** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show ip-service arp-anti-spoofing** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security user-communication control** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security user-communication svlan** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **security vlan-stormcontrol** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security interface mac-filter** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security interface max-mac-learn** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security interface packet-limit** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show security interface mac-bind** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show ip-service gateway** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show ip-service mac-forced-forwarding** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show ipv6 ns-anti-spoofing** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **show control-panel tcp-stateful config** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show performance pon-vport current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance pon-vport current-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance pon-vport current-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance pon-sport** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance optical current-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance optical his-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance optical his-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance traffic-stat** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show statistics flow** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show statistics multicast-flow** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance smartgroup-vnd0 current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance pon-vport his-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance pon-vport his-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance smartgroup current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance optical current-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if his-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if his-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if-vlan** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if current-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance cpu** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if current-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if-vnd0 his-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance memory** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance optical current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if-vnd0 his-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if-vnd0 current** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if-vnd0 current-day-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show performance eth-if-vnd0 current-min-interval** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **security anti-dos packet-limit** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-dos** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security DSV** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-dos packet-limit** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-dos blacklist-limit** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-dos diaglog** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel packet-limit statistics slot** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel packet-limit** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel snatch-cpu-packet config** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel packet-limit statistics outband** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel cpu queue statistics** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel cpu queue** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **show control-panel packet-limit statistics inband** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack next-hops to white-list** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **statistics multicast-flow** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **statistics multicast-group** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **statistics vlan** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **statistics flow** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show statistics multicast-group** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **show statistics vlan** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **statistics enable** - 无描述
+  - 章节：产品配置 > 统计功能 | 模式：
+- **security anti-attack limit-num** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack mac-whitelist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack mode** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack ip-whitelist** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack blacklist-limit** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack blocking-time** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **security anti-attack diaglog** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+
+## T (143个命令)
+
+- **timers basic** - 无描述
+  - 章节：路由配置 > RIPNG配置命令 | 模式：
+- **transmit-delay** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ttl-security-hops** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **triggered-hello-delay** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **timers throttle lsa** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **timers spf** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **timers throttle spf** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **timers throttle lsa-arrival** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **ttl-threshold** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **traffic-count-fec** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **traffic-count-fec ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **type** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **transit** - 无描述
+  - 章节：MPLS配置 > MPLS OAM命令 | 模式：
+- **target** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **triggered-hello-delay** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **target-session** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **target-session ipv6** - 无描述
+  - 章节：MPLS配置 > LDP命令 | 模式：
+- **ttl-security** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **timers basic** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **te-link-delay** - 无描述
+  - 章节：路由配置 > ISIS配置命令 | 模式：
+- **timers lsa-group-pacing** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **timers fast-reroute** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **track** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **timers wait-for-end-of-rib** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **track** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **track** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **timers spf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **transmit-delay** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **transmit-delay** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **ttl-security** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **ttl-security** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **timers throttle lsa-arrival** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **timers throttle lsa** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **track** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **timers throttle spf** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **tunnel destination** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **tacacs-client** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs-client6** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs-server host6** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs-server deadtime** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs author-packet authen-type** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs author-packet authen-service** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs enable-packet authen-type** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs-server host** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **trace** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **trace** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **trace6** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **trace6** - 无描述
+  - 章节：诊断和统计 > 诊断管理 | 模式：
+- **tacacs-server packet** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs-server key** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacplus group-server** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs-server timeout** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **tacacs author-packet authen-method** - 无描述
+  - 章节：安全配置 > TACACS+配置命令 | 模式：
+- **timestamp** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **tunnel vrf** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **tag-list** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **terminal monitor** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **tunnel mode** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **tunnel dscp** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **tunnel source** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **tunnel source interface** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **target-params-in** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **terminal width** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **terminal length** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **timeout** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **timeout** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **type** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **timeout** - 无描述
+  - 章节：OAM命令 > SNMP配置命令 | 模式：
+- **telnet6** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **telnet** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **timers bgp** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **test pppoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test potsuni** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test pppoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test iptv** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test iptv** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test mep loopback** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test mep linktrace** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **throughtoutput** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **transceiver-thresh rx-power** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **transceiver detect-period** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **trouble-shooting olt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **trouble-shooting action** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **tr069-mgmt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **tr069-mgmt** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **transceiver alarm** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **transceiver alarm thresholds** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test ipoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **time-range-acl** - 无描述
+  - 章节：产品配置 > ACL配置 | 模式：
+- **track trigger** - 无描述
+  - 章节：接口配置 > 接口配置命令 | 模式：
+- **tcont-burst-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **tpid** - 无描述
+  - 章节：产品配置 > QoS命令 | 模式：
+- **time-range disable** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **time-range disable clear** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **time-range** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **time-range enable** - 无描述
+  - 章节：运行支撑 > 时间段配置 | 模式：
+- **tcont** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test caller** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test caller** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test ipoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test iphost** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **tcont-type5-addbw-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **tcont** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test callee** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **test callee** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **type** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **to-static** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **to-permanent** - 无描述
+  - 章节：L2业务 > MAC管理命令 | 模式：
+- **time-negotiation** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **transparent** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **transparent** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **traffic-stat-reset** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **txfastinit** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **txcreditmax** - 无描述
+  - 章节：L2业务 > LLDP配置命令 | 模式：
+- **time-negotiation** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **table-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **table-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **table-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **table-policy** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **time-negotiation** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **time-negotiation** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **table-map** - 无描述
+  - 章节：路由配置 > BGP配置命令 | 模式：
+- **time-negotiation** - 无描述
+  - 章节：L3业务 > BFD配置命令 | 模式：
+- **traffic-stat-reset min** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **time-sync** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **time-output** - 无描述
+  - 章节：产品配置 > 时钟传递和1588 | 模式：
+- **task abort** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **tcp-stateful acl** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **type** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **type** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **txpower-threshold** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **temperature-threshold** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **task add** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **traffic-profile** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **traffic-mirror** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **traffic-stat-reset day** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **traffic-stat-enable** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **task restart** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **task delete** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **traffic-limit** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **traffic-class** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+
+## U (24个命令)
+
+- **unsolicited-report-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **unicast** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **upgrade lease-time** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **uplink-isolate** - 无描述
+  - 章节：产品配置 > 业务安全 | 模式：
+- **user** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **unsolicited-report-interval** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **unzip** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **user-name-format** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **user-name-format** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **user quota** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **unsolicited-report-interval** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **umount** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+- **user-authen-restriction** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **user-default** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **user-group** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **upgrade priority** - 无描述
+  - 章节：产品管理 > 系统配置 | 模式：
+- **undeploy mpu** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **user-aging** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **uncfg-onu-aging-time** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **uncfg-onu-display-info** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **user-info-security** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **user-name** - 无描述
+  - 章节：运行支撑 > 设备基本管理 | 模式：
+- **unlock configuration** - 无描述
+  - 章节：运行支撑 > MIM管理 | 模式：
+- **uncfg-onu-aging-time** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+
+## V (101个命令)
+
+- **vgw-bypass acl** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **vgw-bypass enable** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **vgw-bypass mode** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **vgw host** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **vgw vlan** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **vgw-bypass acl-apply** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **version-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **version-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **vendor-mode** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **vnd** - 无描述
+  - 章节：产品配置 > 切片管理 | 模式：
+- **vendor-name** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **version-file** - 无描述
+  - 章节：产品配置 > 终端管理 | 模式：
+- **vgw gateway** - 无描述
+  - 章节：产品配置 > 内置刀片配置 | 模式：
+- **voip-module protocol-profile apply** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vomci-cfg** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip-module action** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip-module fax-profile apply** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip-module global-profile apply** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vport-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vport-mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voltage-threshold** - 无描述
+  - 章节：产品配置 > 光模块管理 | 模式：
+- **vport** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vport-map** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vport-map** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vxlan-tunnel statistics vxlan** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **vxlan** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **vxlan-tunnel statistics local-ipv4** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **version** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **version** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **vrf** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **vendor** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **verify** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **version** - 无描述
+  - 章节：安全配置 > SSL配置命令 | 模式：
+- **vxlan-tunnel statistics local-ipv6** - 无描述
+  - 章节：VxLAN配置 > VxLAN基本命令 | 模式：
+- **vxlan-tunnel-config** - 无描述
+  - 章节：VxLAN配置 > VxLAN隧道命令 | 模式：
+- **vendor** - 无描述
+  - 章节：安全配置 > RADIUS配置命令 | 模式：
+- **version** - 无描述
+  - 章节：组播配置 > IPv6组播命令 | 模式：
+- **verify server-id** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **vlan-id** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **vrf-instance** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **veth-connect** - 无描述
+  - 章节：产品配置 > 其他命令 | 模式：
+- **vpls subinterface notify** - 无描述
+  - 章节：L2业务 > STP配置命令 | 模式：
+- **vclass-id** - 无描述
+  - 章节：L3业务 > DHCP配置命令 | 模式：
+- **virtual-link** - 无描述
+  - 章节：路由配置 > OSPFv3配置命令 | 模式：
+- **version** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **vrf** - 无描述
+  - 章节：组播配置 > 组播全局命令 | 模式：
+- **validate-update-source** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **version** - 无描述
+  - 章节：路由配置 > RIP配置命令 | 模式：
+- **virtual-link** - 无描述
+  - 章节：路由配置 > OSPFv2配置命令 | 模式：
+- **voip-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport-mcast &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport-mcast &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport-mcast &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; aggregation** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport-mcast &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport-mcast &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport-mcast &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan gemport &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan-connect** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **vlan** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **vlan-mark** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **vlan-allocate** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **vnd** - 无描述
+  - 章节：产品管理 > 切片基本操作 | 模式：
+- **vlan list** - 无描述
+  - 章节：产品配置 > L2命令 | 模式：
+- **virtual-mac flexible-syntax-profile** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **virtual-mac vlan** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **veip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vrf** - 无描述
+  - 章节：产品配置 > L3命令 | 模式：
+- **virtual-mac access-node-id** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **virtual-mac flexible-syntax-profile active** - 无描述
+  - 章节：产品配置 > VMAC命令 | 模式：
+- **voip mg-domainname** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip pppoe** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip protocol** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan wan &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip config** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip ip-address** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip timer** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip user-tid** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip protocol** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip rtp-tid** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **voip sip-user** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan wan &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan wan &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan wan &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan wan &lt;mid&gt; translate** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan port &lt;mid&gt; vlan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **vlan wan &lt;mid&gt; mode** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+
+## W (11个命令)
+
+- **work-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **work-mode** - 无描述
+  - 章节：产品配置 > 组播和IPTV配置 | 模式：
+- **write** - 无描述
+  - 章节：OAM命令 > 系统基本配置命令 | 模式：
+- **who** - 无描述
+  - 章节：OAM命令 > Telnet配置命令 | 模式：
+- **writelog** - 无描述
+  - 章节：OAM命令 > 告警配置命令 | 模式：
+- **write snatch-packet slot** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **wan** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **wan ctrl** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **wan-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+- **write snatch-packet mp** - 无描述
+  - 章节：产品配置 > 系统安全 | 模式：
+- **wan-ip** - 无描述
+  - 章节：产品配置 > xPON命令 | 模式：
+
+## Z (7个命令)
+
+- **zip** - 无描述
+  - 章节：OAM命令 > 文件系统配置 | 模式：
+
+

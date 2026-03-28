@@ -1,0 +1,1595 @@
+﻿{
+    "metadata":  {
+                     "generated_at":  "2026-03-28 16:32:23",
+                     "section_count":  5,
+                     "chapter_num":  "02",
+                     "chapter_name":  "运行支撑"
+                 },
+    "sections":  [
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_100.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "user-aging",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_101.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "user-authen-restriction",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_102.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "user-default",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_103.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "user-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_104.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "user-name",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_69.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "activate",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_70.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "bind authentication-template",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_71.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "bind authorization-template",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_72.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "default-privilege-level",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_73.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "enable secret",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_74.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "enable-type",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_75.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "global-user-aging",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_76.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "local-privilege-level",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_77.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "password",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_78.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "password-duration",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_79.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "password-recover-remind",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_80.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "rootuser password",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_81.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "sftp top-directory",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_82.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show authen-restriction",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_83.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show local-user level",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_84.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show local-user state",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_85.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show login failure",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_86.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show login state",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_87.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show login",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_88.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show password-dictionary",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_89.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show rootuser",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_90.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show strong-password-info",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_91.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show user-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_92.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show username",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_93.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "strong-password check",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_94.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "strong-password date-check",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_95.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "strong-password max-length",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_96.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "strong-password username-related-chk",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_97.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "strong-password",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_98.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "strong-username",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_99.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "system-user",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "01设备基本管理",
+                         "file_count":  36,
+                         "name":  "设备基本管理",
+                         "command_count":  36
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_105.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock summer-time",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_106.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock sync-source ntp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_107.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock sync-source ptp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_108.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock sync-threshold maximum",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_109.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock sync-threshold-switch",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_110.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock timezone",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_111.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock update-timezone-list",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_112.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show clock detail",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_113.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show clock sync-source",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_114.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show clock",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_115.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show clock",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_116.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clock set",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "02时钟模块管理",
+                         "file_count":  12,
+                         "name":  "时钟模块管理",
+                         "command_count":  12
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_117.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear configuration commit",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_118.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "configure exclusive",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_119.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "lock configuration",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_120.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration commit changes",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_121.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration commit list",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_122.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration trial status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_123.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configure exclusive",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_124.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show lock configuration",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_125.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "unlock configuration",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "03MIM管理",
+                         "file_count":  9,
+                         "name":  "MIM管理",
+                         "command_count":  9
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_126.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ntp all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_127.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug ntp packet",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_128.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp access-control serve-vrf",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_129.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp access-group ipv4-access-list",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_130.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp access-group ipv4-serve-only",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_131.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp access-group ipv6-access-list",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_132.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp access-group ipv6-serve-only",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_133.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp authenticate",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_134.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp authentication-key",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_135.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp broadcast-client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_136.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp broadcast-client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_137.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp broadcast-client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_138.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp broadcast-delay",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_139.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp broadcast-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_140.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp broadcast-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_141.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp broadcast-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_142.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp dns-peer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_143.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp dns-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_144.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_145.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp master",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_146.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp multicast-client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_147.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp multicast-client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_148.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp multicast-client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_149.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp multicast-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_150.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp multicast-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_151.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp multicast-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_152.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp peer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_153.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp poll-interval",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_154.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp port",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_155.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_156.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp source interface",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_157.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp source ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_158.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp source ipv4",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_159.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ntp trusted-key",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_160.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show debug ntp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_161.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ntp associations",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_162.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ntp status",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "04NTP配置",
+                         "file_count":  37,
+                         "name":  "NTP配置",
+                         "command_count":  37
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_163.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "absolute",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_164.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug time-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_165.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "periodic",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_166.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show debug time-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_167.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show time-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_168.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "time-range disable clear",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_169.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "time-range disable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_170.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "time-range enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_171.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "time-range",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "05时间段配置",
+                         "file_count":  9,
+                         "name":  "时间段配置",
+                         "command_count":  9
+                     }
+                 ]
+}

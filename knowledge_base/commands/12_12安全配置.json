@@ -1,0 +1,2660 @@
+﻿{
+    "metadata":  {
+                     "generated_at":  "2026-03-28 16:32:23",
+                     "section_count":  5,
+                     "chapter_num":  "12",
+                     "chapter_name":  "安全配置"
+                 },
+    "sections":  [
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_282.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "authentication-diameter-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_283.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "authentication-radius-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "01AAA配置命令",
+                         "file_count":  2,
+                         "name":  "AAA配置命令",
+                         "command_count":  2
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_284.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "algorithm",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_285.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "algorithm",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_286.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "alias",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_287.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "alias",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_288.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "attribute convert",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_289.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "attribute convert",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_290.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "attribute forbid",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_291.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "attribute forbid",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_292.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "attribute replace nas-identifier",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_293.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "attribute replace nas-ip-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_294.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "authentication-server-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_295.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "called-station-format",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_296.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "calling-station-format",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_297.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "calling-station-format",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_298.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "class-as-car",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_299.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear accounting local-buffer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_300.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear radius counter",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_301.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_302.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "deadtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_303.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "deadtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_304.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius accounting data",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_305.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius accounting error",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_306.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius accounting event",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_307.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius accounting packet",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_308.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_309.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius authentication data",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_310.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius authentication error",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_311.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius authentication event",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_312.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius authentication packet",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_313.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius dmcoa data",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_314.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius dmcoa error",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_315.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius dmcoa event",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_316.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius dmcoa packet",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_317.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius exception",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_318.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius set filter acct-server-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_319.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius set filter acct-session-id",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_320.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius set filter authen-server-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_321.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius set filter client-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_322.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug radius set filter user",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_323.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "default-key",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_324.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "dm-coa max-retries",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_325.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "dm-coa timeout",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_326.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "dsl-vendor",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_327.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "dsl-vendor",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_328.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "filter-id direction",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_329.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "flow-unit",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_330.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_331.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ip vrf",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_332.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "life-time",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_333.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "local-buffer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_334.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "max-retries",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_335.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "max-retries",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_336.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-identifier",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_337.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-identifier",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_338.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-ip-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_339.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-ip-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_340.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-ipv6-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_341.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-ipv6-address",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_342.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-port-format user-defined",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_343.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-port-format user-defined",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_344.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-port-id-format",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_345.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "nas-port-id-format",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_346.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "queue-depth",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_347.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius accounting-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_348.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius accounting-off",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_349.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius attribute vendor-specific vendor-id",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_350.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius authentication-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_351.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius client-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_352.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius client-group-default",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_353.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius dev-backup",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_354.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius listening-port accounting",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_355.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius listening-port authentication",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_356.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius server-port-check",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_357.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius-ping accounting-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_358.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "radius-ping authentication-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_359.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "send-rate-limit",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_360.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "send-rate-limit",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_361.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_362.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "server6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_363.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_364.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "server6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_365.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "set-dscp-outer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_366.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "set-dscp-outer",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_367.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show accounting local-buffer all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_368.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show accounting local-buffer group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_369.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show accounting local-buffer session",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_370.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show accounting local-buffer sum",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_371.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show accounting local-buffer user",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_372.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius accounting-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_373.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_374.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius attribute",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_375.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius authentication-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_376.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius client-group all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_377.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius client-group brief",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_378.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius client-group group-name",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_379.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius dev-backup",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_380.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show configuration radius server-port-check",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_381.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show debug radius",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_382.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius counter",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_383.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius listening-port",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_384.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius-attribute name",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_385.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius-attribute type",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_386.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius-attribute",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_387.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius-resource",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_388.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius-server accounting-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_389.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius-server all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_390.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show radius-server authentication-group",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_391.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "source-ip",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_392.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "standby",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_393.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "timeout",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_394.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "timeout",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_395.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "user-name-format",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_396.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "user-name-format",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_397.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vendor",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_398.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "vendor",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "02RADIUS配置命令",
+                         "file_count":  115,
+                         "name":  "RADIUS配置命令",
+                         "command_count":  115
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_399.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "clear ssh server public-key keyname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_400.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ssh server authentication-info",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_401.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ssh server host-key",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_402.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ssh server public-key brief",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_403.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ssh server public-key keyname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_404.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ssh",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_405.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server access-class ipv4",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_406.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server access-class ipv6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_407.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server diffie-hellman",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_408.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server disable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_409.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server dscp",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_410.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server enable",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_411.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server encryption",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_412.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server generate-key",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_413.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server hmac",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_414.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server host-key",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_415.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server public-key keyname",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_416.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server rekey-interval",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_417.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server username",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_418.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server version",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_419.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssh server vrf",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "03SSH配置命令",
+                         "file_count":  21,
+                         "name":  "SSH配置命令",
+                         "command_count":  21
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_420.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ciphersuite",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_421.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "context",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_422.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "pki-profile",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_423.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "renegotiate",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_424.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "retransmit retries",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_425.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "session timeout",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_426.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ssl context",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_427.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ssl",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_428.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "verify",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_429.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "version",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "04SSL配置命令",
+                         "file_count":  10,
+                         "name":  "SSL配置命令",
+                         "command_count":  10
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_430.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug tacplus accounting",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_431.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug tacplus all",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_432.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug tacplus authentication",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_433.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug tacplus authorization",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_434.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "debug tacplus exception",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_435.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "server6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_436.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_437.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show debug tacplus",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_438.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show tacacs global-config",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_439.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show tacacs-server6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_440.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show tacacs-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_441.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show tacplus group-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_442.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs author-packet authen-method",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_443.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs author-packet authen-service",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_444.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs author-packet authen-type",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_445.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs enable-packet authen-type",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_446.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_447.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-client6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_448.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-client",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_449.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-server deadtime",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_450.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-server host6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_451.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-server host",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_452.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-server key",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_453.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-server packet",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_454.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacacs-server timeout",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_455.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "tacplus group-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "05TACACS+配置命令",
+                         "file_count":  26,
+                         "name":  "TACACS+配置命令",
+                         "command_count":  26
+                     }
+                 ]
+}

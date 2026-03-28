@@ -1,0 +1,379 @@
+﻿{
+    "metadata":  {
+                     "generated_at":  "2026-03-28 16:32:23",
+                     "section_count":  3,
+                     "chapter_num":  "13",
+                     "chapter_name":  "诊断和统计"
+                 },
+    "sections":  [
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_456.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ping",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_457.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ping",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_458.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ping6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_459.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ping-tcp-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_460.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "ping-udp-server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_461.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show ping server",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "01PING命令",
+                         "file_count":  6,
+                         "name":  "PING命令",
+                         "command_count":  6
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_462.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "performance data-save-interval",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_463.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "performance update-interval",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_464.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "performance zero-unsuppress",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_465.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "show performance data-save-interval",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "02性能统计显示",
+                         "file_count":  4,
+                         "name":  "性能统计显示",
+                         "command_count":  4
+                     },
+                     {
+                         "commands":  [
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_466.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "diag all",
+                                              "examples":  [
+                                                               "ZXR10(diag)#diag\n?\nall\nDispatch\ncmd\nto\nall\nonline\nboard\nphysical\nDispatch\ncmd\nto\nspecific\nboard\nservice\nDispatch\ncmd\nto\nservice\nmodule\nZXR10(diag)#diag\nall\n?\nWORD\nString\nregistered\nby\napp\nJob\n(1-31\ncharacters)\n\u0026lt;cr\u0026gt;\nZXR10(diag-all)#exit\nZXR10(diag)#"
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_467.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "diag manual",
+                                              "examples":  [
+                                                               "ZXR10(diag)#diag\nmanual\nalarm\nNodeID\nParameter\nComment\n5112\nN/A\nShow\npreload\ninfo\nin\nserver\n5150\nstrategy-name\nShow\nstatistical\ninformation\nof\nthe\nlog\nstrategy"
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_468.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "diag physical",
+                                              "examples":  [
+                                                               "ZXR10(diag)#diag\n?\nall\nDispatch\ncmd\nto\nall\nonline\nboard\nphysical\nDispatch\ncmd\nto\nspecific\nboard\nservice\nDispatch\ncmd\nto\nservice\nmodule\nZXR10(diag)#diag\nphysical\nPFU-0/20/0\n?\nWORD\nString\nregistered\nby\napp\nJob\n(1-31\ncharacters)\n\u0026lt;cr\u0026gt;\nZXR10(diag-physical)#exit\nZXR10(diag)#"
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_469.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "diag service",
+                                              "examples":  [
+                                                               "ZXR10(diag)#diag\n?\nall\nDispatch\ncmd\nto\nall\nonline\nboard\nphysical\nDispatch\ncmd\nto\nspecific\nboard\nservice\nDispatch\ncmd\nto\nservice\nmodule\nZXR10(diag)#diag\nservice\n?\nWORD\nString\nregistered\nby\napp\nJob\n(1-31\ncharacters)\n\u0026lt;cr\u0026gt;\nZXR10(diag-service)#exit\nZXR10(diag)#"
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_470.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "diag shell",
+                                              "examples":  [
+                                                               "ZXR10(diag)#diag\nshell\nMPU-0/20/0\nZXR10(diag-shell-MPU-0/20/0)#\n退出模式：\nZXR10(diag-shell-MPU-0/20/0)#exit\nZXR10(diag)#"
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_471.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "diagnose",
+                                              "examples":  [
+                                                               "ZXR10#diagnose\nZXR10(diag)#"
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_472.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "execute",
+                                              "examples":  [
+                                                               "ZXR10(diag-all)#execute\n1101\n==========================diagserver\nMPU-0/20/0\nbegin===========================\n---------------------Registed\ndiagagent\ninfo\nList-------------------\nJNO\n=\n0xe080001\nucGShelf\n=\n0\nSlot=\n20\nCpu=\n0\nJNO\n=\n0xe080001\nucGShelf\n=\n0\nSlot=\n1\nCpu=\n0\n------------------------------------------------------------------\n===========================diagserver\nMPU-0/20/0\nend============================\nZXR10(diag-all)#execute\n201113\n\"telnet\"\n===========================SSH_Entry\nMPU-0/20/0\nbegin===========================\n==============================================================================================================================\nCurrent\nssh\u0026lt;---\u0026gt;telnet\nSession\nInformation\n==============================================================================================================================\n============================SSH_Entry\nMPU-0/20/0\nend============================\nZXR10(diag-all)#execute\nhelp\nalarm\n===============================\nMPU-0/20/0\nbegin================================\n----------------Registed\nNodeId\n\u0026amp;\nJobName\nList--------------\n5117\nalarmperfagent\nShow\nTPID\ntype\ninfo\nin\nagent\n5118\nalarmperfagent\nShow\nTPID\ninfo\nin\nagent\n5120\nalarmperfagent\nShow\nTPID\ninfo\nwithout\nregistra\n5121\nalarmperfagent\nShow\nTPID\nregistration\nlog\nin\na\n5122\nalarmperfagent\nShow\ndispatch\nlog\nin\nagent\n5123\nalarmperfagent\nShow\ngeneral\nalarm\noccurance\n5124\nalarmperfagent\nShow\ncurrent\nstate\nof\ngeneral\na\n5125\nalarmperfagent\nShow\nalarm\ncode\ndefinition\nin\na\n5126\nalarmperfagent\nShow\nlog\nof\nreceived\nalarm\nin\na\n------------------------------------------------------------\n================================\nMPU-0/20/0\nend=================================\nZXR10(diag-all)#execute\n5104\n--help\nCommand\nFormat:\nexecute\n5104\ntype\nParameter:\ntype:\nThe\ndebug\ntype\n(number:\n0-7)\nDescription:\nShow\nimportant\ndebug\nrecord\nin\nalarm\nserver,such\nas\nmim\nload,ftp\nfail."
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_473.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "execute",
+                                              "examples":  [
+                                                               "ZXR10(diag-all)#execute\n1101\n==========================diagserver\nMPU-0/20/0\nbegin===========================\n---------------------Registed\ndiagagent\ninfo\nList-------------------\nJNO\n=\n0xe080001\nucGShelf\n=\n0\nSlot=\n20\nCpu=\n0\nJNO\n=\n0xe080001\nucGShelf\n=\n0\nSlot=\n1\nCpu=\n0\n------------------------------------------------------------------\n===========================diagserver\nMPU-0/20/0\nend============================\nZXR10(diag-all)#execute\n201113\n\"telnet\"\n===========================SSH_Entry\nMPU-0/20/0\nbegin===========================\n==============================================================================================================================\nCurrent\nssh\u0026lt;---\u0026gt;telnet\nSession\nInformation\n==============================================================================================================================\n============================SSH_Entry\nMPU-0/20/0\nend============================\nZXR10(diag-all)#execute\nhelp\nalarm\n===============================\nMPU-0/20/0\nbegin================================\n----------------Registed\nNodeId\n\u0026amp;\nJobName\nList--------------\n5117\nalarmperfagent\nShow\nTPID\ntype\ninfo\nin\nagent\n5118\nalarmperfagent\nShow\nTPID\ninfo\nin\nagent\n5120\nalarmperfagent\nShow\nTPID\ninfo\nwithout\nregistra\n5121\nalarmperfagent\nShow\nTPID\nregistration\nlog\nin\na\n5122\nalarmperfagent\nShow\ndispatch\nlog\nin\nagent\n5123\nalarmperfagent\nShow\ngeneral\nalarm\noccurance\n5124\nalarmperfagent\nShow\ncurrent\nstate\nof\ngeneral\na\n5125\nalarmperfagent\nShow\nalarm\ncode\ndefinition\nin\na\n5126\nalarmperfagent\nShow\nlog\nof\nreceived\nalarm\nin\na\n------------------------------------------------------------\n================================\nMPU-0/20/0\nend=================================\nZXR10(diag-all)#execute\n5104\n--help\nCommand\nFormat:\nexecute\n5104\ntype\nParameter:\ntype:\nThe\ndebug\ntype\n(number:\n0-7)\nDescription:\nShow\nimportant\ndebug\nrecord\nin\nalarm\nserver,such\nas\nmim\nload,ftp\nfail."
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_474.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "execute",
+                                              "examples":  [
+                                                               "ZXAN(diag-shell-MPU-1/10/0)#execute\nshell\nfnsc_svr\nshell\nfnsc_s\nNow\nswitch\nto\nFNSC_SVR\nshell\n...\n[FNSC_SVR]#\nZXAN(diag-shell-MPU-1/10/0)#"
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_475.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "trace",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_476.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "trace",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_477.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "trace6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          },
+                                          {
+                                              "mode":  "",
+                                              "description":  "",
+                                              "usage":  "",
+                                              "source_file":  "sect2_478.html",
+                                              "syntax":  "",
+                                              "level":  0,
+                                              "name":  "trace6",
+                                              "examples":  [
+
+                                                           ],
+                                              "related_commands":  [
+
+                                                                   ]
+                                          }
+                                      ],
+                         "path":  "03诊断管理",
+                         "file_count":  13,
+                         "name":  "诊断管理",
+                         "command_count":  13
+                     }
+                 ]
+}
