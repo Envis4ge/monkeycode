@@ -69,6 +69,7 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - Sending emails, tweets, public posts
 - Anything that leaves the machine
 - Anything you're uncertain about
+- **配置修改**：修改 openclaw.json 等配置文件前，必须先说明方案并经用户确认
 
 ## Group Chats
 
