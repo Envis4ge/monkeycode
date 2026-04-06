@@ -20,8 +20,25 @@ python-learning/
 | 文件 | 内容 |
 |------|------|
 | `micrograd.py` | 手写自动微分引擎，理解反向传播 |
+| `micrograd_enhanced.py` | 增强版：包含完整错误处理和验证测试 |
 | `nanogpt.py` | 从零实现 GPT，理解 Transformer |
+| `nanogpt_final_enhanced.py` | 增强版：包含系统化错误处理和配置验证 |
 | `makemore.py` | 字符级语言模型，理解序列生成 |
+| `makemore_enhanced.py` | 增强版：包含数据验证和错误处理 |
+| `makemore_annotated.py` | 🆕 **注释版**：逐行解释，每行代码有中文注释 |
+
+**测试文件**:
+- `test_micrograd_enhanced.py` - 增强版测试
+- `test_nanogpt_enhanced.py` - 增强版测试  
+- `test_makemore_enhanced.py` - 增强版测试
+- `test_makemore_annotated.py` - 🆕 **注释版验证测试**
+
+**注释版特点**:
+- ✅ 逐行中文解释，适合初学者
+- ✅ 核心概念标注 (⭐标记)
+- ✅ 常见错误提醒 (⚠️标记)
+- ✅ 实战技巧分享 (💡标记)
+- ✅ 完整测试套件，100%通过率
 
 ### 02 - 基础：模型推理
 | 文件 | 内容 |
